@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Habilidades"
-subtitle = "Somo desarrolladores full stack"
+subtitle = "Desarrollador full stack"
 
 # Showcase personal skills or business features.
 #
@@ -16,7 +16,7 @@ subtitle = "Somo desarrolladores full stack"
 
 [design.background]
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  image = "team.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.

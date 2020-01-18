@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Daniel Juan
+name: Naujoël
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Profesor de Anatomía
+role: Desarrollador web y Abogado
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Católica de Valencia
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses de investigación incluyen la medicina forense, la informática móvil y la materia programable.
+bio: Mis intereses de investigación incluyen el desarrollo web, la informática móvil y la política internacional.
 
 interests:
-- Medicina forense
-- Ligüística computacional
-- Recuperación de información
+- Desarrollo web
+- Política internacional
+- Ajedrez
 
 education:
   courses:
-  - course: PhD en Inteligencia Artificial
-    institution: Universidad de Stanford
-    year: 2012
-  - course: MEng en Medicina Forense
-    institution: Massachusetts Institute of Technology (MIT)
-    year: 2009
-  - course: BSc en Lenguajes de Computación
-    institution: Massachusetts Institute of Technology (MIT)
+  - course: Máster en Acceso a la Abogacía
+    institution: Universidad Nacional de Educación a Distancia (UNED)
+    year: 2020
+  - course: Grado en Derecho
+    institution: Universidad Nacional de Educación a Distancia (UNED)
+    year: 2018
+  - course: Ingeniería Técnica en informática de Gestión (ITIG)
+    institution: Universidad Politécnica de Valencia (UPV)
     year: 2008
 
 # Social/Academic Networking
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Daniel Juan es profesor de inteligencia artificial en el Laboratorio de Inteligencia Artificial de Stanford. Sus intereses de investigación incluyen la robótica distribuida, la informática móvil y la materia programable. Dirige el grupo de robótica Neurobiología, que desarrolla robots auto-reconfiguración, sistemas de auto-organización de los robots, y redes de sensores móviles.
+Naujoël es abogado en España y desarrollador web. Sus intereses de investigación incluyen desarrollo web, informática móvil y política internacional. Lidera el grupo Nueva República que coordina el movimiento progresista en Europa.

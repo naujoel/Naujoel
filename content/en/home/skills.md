@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Full stack developer"
 
 # Showcase personal skills or business features.
 #
@@ -16,7 +16,7 @@ subtitle = ""
 
 [design.background]
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  image = "team.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -29,18 +29,18 @@ subtitle = ""
   icon = "wordpress"
   icon_pack = "fab"
   name = "Wordpress"
-  description = "CMS líder, con más del 80% de los sitios web"
+  description = "Leading CMS, with more than 80% of websites"
 
 [[feature]]
   icon = "joomla"
   icon_pack = "fab"
   name = "Joomla!"
-  description = "CMS que permite desarrollar sitios web dinámicos"  
+  description = "CMS that allows to develop dynamic websites"  
 
 [[feature]]
   icon = "drupal"
   icon_pack = "fab"
   name = "Drupal"
-  description = "El CMS más potente"
+  description = "The most powerful CMS"
 
 +++

@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experiencia"
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "CEO"
-  company = "GenCoin"
+  company = "Freelancer"
   company_url = ""
   location = "Alzira"
   date_start = "2017-01-01"
@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Profesor"
-  company = "Universidad Católica de Valencia"
+  title = "TATMO"
+  company = "IBMCP"
   company_url = ""
-  location = "Alzira"
-  date_start = "2016-01-01"
+  location = "Valencia"
+  date_start = "2005-01-01"
   date_end = "2016-12-31"
-  description = """Enseñó anatomía e investigó en medicina forense."""
+  description = """"""
 
 +++

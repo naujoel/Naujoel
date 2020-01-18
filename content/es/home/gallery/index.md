@@ -5,8 +5,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-title = "Showcase"
-subtitle = "Algunos de nuestros trabajos"
+title = "Galería"
+subtitle = ""
+
 +++
 
 {{< gallery >}}
