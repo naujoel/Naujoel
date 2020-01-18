@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Naujoël es abogado en España y desarrollador web. Sus intereses de investigación incluyen desarrollo web, informática móvil y política internacional. Lidera el grupo Nueva República que coordina el movimiento progresista en Europa.
+En Junio de 1981 mi padre me dijo "Ya has estudiado bastante chico, ahora a trabajar", yo tenía 13 años estaba en 8º EGB y me habían quedado pendientes para Septiembre: matemáticas, lenguaje y religión. No me presenté a la recuperación y no pude obtener el Graduado Escolar. A los 21 años murió mi padre y tuve que hacerme cargo del negocio familiar. A los 28 años me di cuenta de que si no cambiaba nada seguiría siendo lo que era para siempre, así que me arriesgué dejé el negocio y me puse a estudiar. Lo primero que hice fue obtener el Graduado Escolar en la Escuela de Adultos de Almansa. Hoy soy Ingeniero y Abogado, y puedo decir que aquélla fue la mejor decisión de mi vida.

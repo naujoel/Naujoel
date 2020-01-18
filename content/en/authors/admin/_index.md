@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Naujoël is a lawyer in Spain and web developer. His research interests include web development, mobile computing and international policy. He leads the New Republic group that coordinates the progresist movement in Europe.
+In June 1981, my father told me "You have already studied quite a bit, now to work", I was 13 years old, I was studying 8th EGB and I had been pending for September: mathematics, language and religion. I didn't show up for recovery and I couldn't get the Primary School Graduate. At 21 my father died and I had to take care of the family business. At 28, I realized that if I didn't change anything, it would still be what it was forever, so I took the risk and left the business and started studying. The first thing I did was to obtain the Primary School Graduate at the Almansa Adult School. Today I am an Engineer and Lawyer, and I can say that this was the best decision of my life.

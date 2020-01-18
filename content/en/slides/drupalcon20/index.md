@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to the use of Academic Slides.
+summary: DrupalCon unites diverse experts from around the globe who create ambitious digital experiences.
 authors: []
 tags: []
 categories: []
@@ -13,32 +13,28 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Academic
+# Welcome to Minneapolis
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[Drupal](https://drupal.org/) | [DrupalCon Minneapolis 2020](https://events.drupal.org/minneapolis2020)
 
 ---
 
 ## Features
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+- In Minneapolis, you're never more than six blocks from a park, and chances are you'll see a few lakes as well.
+- Minneapolis is home to a thriving culture of food, music, and the great outdoors.
+- From the Stone Arch Bridge to Minnehaha Falls, from Northeast Arts District to Eat Street, there's a gem of a city to be discovered.
+- Discovery is part of DrupalCon, so plan to join us in Minneapolis.
 
 ---
 
-## Controls
+## Become a sponsor
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+- DrupalCon North America is consistently the most widely attended Drupal event in the world.  
+- In 2020, we’re featuring a full schedule of educational, networking and contribution opportunities.
+- The growing community will gain new skills and celebrate as we advance the Drupal project.
+- Sponsoring DrupalCon can help your business with brand awareness, talent recruitment, networking with potential partners and customers, lead generation, community support and thought leadership.
+
 
 ---
 

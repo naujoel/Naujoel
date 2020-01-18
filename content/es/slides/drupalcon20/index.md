@@ -1,6 +1,6 @@
 ---
-title: Slides
-summary: An introduction to the use of Academic Slides.
+title: Diapositivas
+summary: DrupalCon une a diversos expertos de todo el mundo que crean experiencias digitales ambiciosas.
 authors: []
 tags: []
 categories: []
@@ -13,32 +13,27 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Academic
+# Bienvenido a Minneapolis
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+[Drupal](https://drupal.org/) | [DrupalCon Minneapolis 2020](https://events.drupal.org/minneapolis2020)
 
 ---
 
-## Controls
+## Caracteristicas
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+- En Minneapolis, nunca estás a más de seis manzanas de un parque, y es probable que también veas algunos lagos.
+- Minneapolis es el hogar de una próspera cultura de comida, música y actividades al aire libre.
+- Desde el Puente Stone Arch hasta las Cataratas Minnehaha, desde el Distrito de las Artes del Nordeste hasta Eat Street, hay una joya de ciudad por descubrir.
+- Descubrir es parte de DrupalCon, así que planea unirte a nosotros en Minneapolis.
+
+---
+
+## Hazte patrocinador
+
+- DrupalCon Norteamérica es consistentemente el evento Drupal con mayor asistencia en el mundo.
+- En 2020, presentaremos un calendario completo de oportunidades educativas, de redes y de contribución.
+- La creciente comunidad adquirirá nuevas habilidades y celebrará a medida que avancemos en el proyecto Drupal.
+- Patrocinar a DrupalCon puede ayudar a su negocio con el conocimiento de la marca, el reclutamiento de talentos, la creación de redes con socios y clientes potenciales, la generación de clientes potenciales, el apoyo de la comunidad y el liderazgo intelectual.
 
 ---
 
