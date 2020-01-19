@@ -2,11 +2,11 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
-subtitle = "Full stack developer"
+title = "Habilidades"
+subtitle = "Desarrollador full stack"
 
 # Showcase personal skills or business features.
 #
@@ -29,18 +29,18 @@ subtitle = "Full stack developer"
   icon = "wordpress"
   icon_pack = "fab"
   name = "Wordpress"
-  description = "Leading CMS, with more than 80% of websites"
+  description = "CMS líder, con más del 80% de los sitios web"
 
 [[feature]]
   icon = "joomla"
   icon_pack = "fab"
   name = "Joomla!"
-  description = "CMS that allows to develop dynamic websites"  
+  description = "CMS que permite desarrollar sitios web dinámicos"  
 
 [[feature]]
   icon = "drupal"
   icon_pack = "fab"
   name = "Drupal"
-  description = "The most powerful CMS"
+  description = "El CMS más potente"
 
 +++
