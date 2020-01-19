@@ -3,7 +3,7 @@
 
 title: "Comenzando Con Hugo"
 subtitle: ""
-summary: ""
+summary: "Hugo es un framework que permite crear websites a base de contenido estático (HTML, JavaScript, CSS, …), es decir, no se sustenta en el uso de servidores de aplicaciones o bases de datos."
 authors: []
 tags: [
   Hugo,
