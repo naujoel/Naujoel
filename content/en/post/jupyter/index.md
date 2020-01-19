@@ -1,7 +1,7 @@
 ---
 title: Display Jupyter Notebooks with Academic
 subtitle:
-summary:
+summary: Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
 date: 2019-02-05
 lastMod: ""
 

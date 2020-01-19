@@ -1,5 +1,5 @@
 ---
-title: Charlas recientes y próximas
+title: Eventos y Charlas
 
 # View.
 #   1 = List
@@ -10,5 +10,5 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "drupalcon.jpg"
 ---

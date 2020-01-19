@@ -1,7 +1,7 @@
 ---
 title: Mostrar cuadernos Jupyter con Academic
 subtitle:
-summary:
+summary: El proyecto Jupyter existe para desarrollar software de código abierto, estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación.
 date: 2019-02-05
 lastMod: ""
 
