@@ -1,10 +1,22 @@
 ---
 title: Escribir contenido técnico en Academic
 date: 2019-07-12
+
+tags: [
+  Academic,
+  Hugo,
+]
+categories: [
+  Tecnologías,
+]
+
+featured: true
+draft: false
 math: true
 diagram: true
+
 image:
-  placement: 3
+  placement: 1
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 

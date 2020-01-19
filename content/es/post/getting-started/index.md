@@ -1,16 +1,21 @@
 ---
 title: 'Academic: el creador de sitios web para Hugo'
-subtitle: 'Crea un hermoso y simple sitio en menos de 10 minutos :rocket:'
-summary: Crea un hermoso y simple sitio en menos de 10 minutos.
+subtitle:
+summary:
 authors:
-- admin
-tags:
-- Academic
-categories:
-- Demo
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
-featured: false
+date: 2019-04-20
+lastmod: 2019-04-20
+
+tags: [
+  Academic,
+  Hugo,
+]
+categories: [
+  Tecnologías,
+]
+
+
+featured: true
 draft: false
 
 # Featured image
@@ -18,9 +23,9 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  placement: 1
+  caption: 'Image credit: [**George Cushen**](https://twitter.com/GeorgeCushen)'
+  focal_point:
   preview_only: false
 
 # Projects (optional).
@@ -34,21 +39,19 @@ projects: []
 
 [Comprueba la última **demo**](https://academic-demo.netlify.com/) de lo que obtendrás en menos de 10 minutos, o [mira el **showcase**](https://sourcethemes.com/academic/#expo) de sitios personales, proyectos y empresas.
 
-- 👉 [**Comenzar**](#install)
-- 📚 [Ver la **documentación**](https://sourcethemes.com/academic/docs/)
-- 💬 [**Preguntar una cuestión** en el foro](https://discourse.gohugo.io)
-- 👥 [Charlar con la **comunidad**](https://spectrum.chat/academic)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Pedir una **característica** o reportar un **bug**](https://github.com/gcushen/hugo-academic/issues)
+- [**Comenzar**](#install)
+- [Ver la **documentación**](https://sourcethemes.com/academic/docs/)
+- [**Preguntar una cuestión** en el foro](https://discourse.gohugo.io)
+- [Charlar con la **comunidad**](https://spectrum.chat/academic)
+- Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
+- [Pedir una **característica** o reportar un **bug**](https://github.com/gcushen/hugo-academic/issues)
 - ⬆️ **Actualizando?** Mira la [Guía de actualización](https://sourcethemes.com/academic/docs/update/) y [Release Notes](https://sourcethemes.com/academic/updates/)
 - :heart: **Soporta el desarrollo** de Academic:
   - ☕️ [**Invita a un café**](https://paypal.me/cushen)
-  - 💵 [Hazte patrocinador en **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decora tu laptop o diario con Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Compra la **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribuir**](https://sourcethemes.com/academic/docs/contribute/)
-
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic es mobile-first con un diseño receptivo para garantizar que tu sitio se vea impresionante en cada dispositivo." >}}
+  - [Hazte patrocinador en **Patreon**](https://www.patreon.com/cushen)
+  - [Decora tu laptop o diario con Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
+  - [Compra la **T-shirt**](https://academic.threadless.com/)
+  - [**Contribuir**](https://sourcethemes.com/academic/docs/contribute/)
 
 **Características:**
 
@@ -70,7 +73,7 @@ projects: []
 
 ## Temas
 
-Academic viene con **modo automático día (luz) y noche (oscuridad)** incorporado. Alternativamente, los visitantes pueden elegir su modo preferido: haga clic en el icono del sol/luna en la parte superior derecha de la [Demo] (https://academic-demo.netlify.com/) para verlo en acción. El modo día/noche también puede ser deshabilitado por el administrador del sitio en `params.toml`.
+Academic viene con **modo automático día (luz) y noche (oscuridad)** incorporado. Alternativamente, los visitantes pueden elegir su modo preferido: haga clic en el icono del sol/luna en la parte superior derecha de la [Demo](https://academic-demo.netlify.com/) para verlo en acción. El modo día/noche también puede ser deshabilitado por el administrador del sitio en `params.toml`.
 
 [Elige un impresionante **tema** y **fuente**](https://sourcethemes.com/academic/themes/) para tu sitio. Los temas son completamente [customizable](https://sourcethemes.com/academic/docs/customization/#custom-theme).
 

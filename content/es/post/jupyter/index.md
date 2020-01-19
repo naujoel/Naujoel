@@ -1,20 +1,27 @@
 ---
 title: Mostrar cuadernos Jupyter con Academic
-subtitle: Aprende a bloguear en Academic usando los cuadernos Jupyter
-summary: Aprende a bloguear en Academic usando los cuadernos Jupyter
-authors:
-- admin
-tags: []
-categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
-featured: false
+subtitle:
+summary:
+date: 2019-02-05
+lastMod: ""
+
+tags: [
+  Academic,
+  Hugo,
+]
+categories: [
+  Tecnologías,
+]
+
+
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ""
+  placement: 1
+  caption: 'Image credit: [**Jupyter**](https://www.freecodecamp.org/news/content/images/2019/08/1_m87_Htb_9Pstq0UcvNJ49w.png)'
   focal_point: ""
 
 # Projects (optional).
