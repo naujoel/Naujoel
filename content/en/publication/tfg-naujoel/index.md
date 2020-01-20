@@ -24,12 +24,12 @@ abstract: This Final Degree Project analyzes the evolution of the Inheritance an
 summary: This Final Degree Project analyzes the evolution of the Inheritance and Donations Tax in the years 2016 and 2017 between Catalonia and the Valencian Community from an objective point of view, influencing the principles of tax justice and observing the jurisprudence of the Court of Justice of the European Union and the Constitutional Court.
 
 categories:
-- Politics
+- Derecho y Política
 
 tags:
-- Tax Law
-- Inheritance and Donation Tax
-featured: true
+- Derecho Tributario
+- Impuesto de Sucesiones y Donaciones
+featured: false
 
 # links:
 # - name: Custom Link

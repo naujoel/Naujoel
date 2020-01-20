@@ -24,7 +24,7 @@ abstract: Este documento es un ejemplo de RECURSO DE REVISIÓN contra el Decreto
 summary: Este documento es un ejemplo de RECURSO DE REVISIÓN contra el Decreto dictado por la Letrada de la Administración de Justicia de fecha 21 de noviembre de 2019, por infracción del artículo 575 de la Ley de Enjuiciamiento Civil.
 
 tags:
-- Formularios
+- Forms
 featured: false
 
 # links:

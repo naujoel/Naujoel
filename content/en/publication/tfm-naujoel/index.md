@@ -24,8 +24,8 @@ abstract: Pensions for permanent disability may be of a contributory or non-cont
 summary: The objective of this work is to try to give a secure legal response to the beneficiary of an IP benefit that is willing to work.
 
 tags:
-- Labor Law
-- Social Protection Law
+- Derecho Laboral
+- Derecho de la Protección Social
 featured: false
 
 # links:
@@ -52,8 +52,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- personal-project
+# projects:
+# - personal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
