@@ -4,10 +4,10 @@ subtitle: ""
 summary: "Echoing the Judges for Democracy communicate."
 authors: []
 tags: [
-  Dictatorship,
+  Dictadura,
 ]
 categories: [
-  Politics,
+  Derecho y Política,
 ]
 date: 2020-01-19
 lastmod: 2020-01-19

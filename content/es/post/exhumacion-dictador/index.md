@@ -9,7 +9,7 @@ tags: [
   Dictadura,
 ]
 categories: [
-  Política,
+  Derecho y Política,
 ]
 date: 2020-01-19
 lastmod: 2020-01-19

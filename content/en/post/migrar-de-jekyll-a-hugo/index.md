@@ -10,8 +10,8 @@ tags: [
   Jekyll,
 ]
 categories: [
-  Technologies,
-  Tutorials,
+  Tecnologías,
+  Tutoriales,
 ]
 date: 2020-01-19
 lastmod: 2020-01-19

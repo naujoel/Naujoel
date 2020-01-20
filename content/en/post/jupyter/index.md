@@ -10,7 +10,7 @@ tags: [
   Hugo,
 ]
 categories: [
-  Technologies,
+  Tecnologías,
 ]
 
 

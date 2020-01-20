@@ -1,5 +1,5 @@
 ---
-title: "Final Degree Project"
+title: "Evolution of inheritance and donation tax"
 authors:
 - admin
 date: "2018-07-01T00:00:00Z"
@@ -15,16 +15,20 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Final Degree Project*
-publication_short: In *FDP*
+publication: "Evolution of inheritance and donation tax"
+publication_short: ""
 
 abstract: This Final Degree Project analyzes the evolution of the Inheritance and Donations Tax in the years 2016 and 2017 between Catalonia and the Valencian Community from an objective point of view, influencing the principles of tax justice and observing the jurisprudence of the Court of Justice of the European Union and the Constitutional Court.
 
 # Summary. An optional shortened abstract.
 summary: This Final Degree Project analyzes the evolution of the Inheritance and Donations Tax in the years 2016 and 2017 between Catalonia and the Valencian Community from an objective point of view, influencing the principles of tax justice and observing the jurisprudence of the Court of Justice of the European Union and the Constitutional Court.
 
+categories:
+- Politics
+
 tags:
 - Tax Law
+- Inheritance and Donation Tax
 featured: true
 
 # links:
@@ -53,6 +57,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - internal-project
+categories:
+- Politics
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -63,9 +69,9 @@ projects:
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import publication metadata.
 {{% /alert %}}
 
 {{% alert note %}}
-Click the *PDF* button above to download PDF file.
+Click the *PDF* button above to download publication PDF file.
 {{% /alert %}}

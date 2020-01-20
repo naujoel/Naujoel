@@ -1,12 +1,13 @@
 ---
 title: Proyecto externo
-summary: Un ejemplo de enlace directo a un sitio web de proyecto externo usando `external_link`.
-tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+summary: Documentos, publicaciones o artículos realizados por otros.
+# tags:
+# - Demo
+
+date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: ""
 
 image:
   caption: Photo by Toa Heftiba on Unsplash

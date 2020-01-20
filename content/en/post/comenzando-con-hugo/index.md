@@ -9,7 +9,7 @@ tags: [
   Hugo,
 ]
 categories: [
-  Technologies,
+  Tecnologías,
 ]
 date: 2020-01-19T09:07:23+01:00
 lastmod: 2020-01-19T09:07:23+01:00

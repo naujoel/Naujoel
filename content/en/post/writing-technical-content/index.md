@@ -7,7 +7,7 @@ tags: [
   Hugo,
 ]
 categories: [
-  Technologies,
+  Tecnologías,
 ]
 
 featured: true

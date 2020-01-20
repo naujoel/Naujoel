@@ -1,5 +1,5 @@
 ---
-title: "Trabajo de Fin de Grado en Derecho"
+title: "Evolución del Impuesto de Sucesiones y Donaciones"
 authors:
 - admin
 date: "2018-07-01T00:00:00Z"
@@ -15,8 +15,8 @@ publishDate: "2018-07-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: En *Trabajo Fin de Grado en Derecho*
-publication_short: En *TFG*
+publication: "Evolución del Impuesto de Sucesiones y Donaciones"
+publication_short: ""
 
 abstract: El presente Trabajo Fin de Grado analiza la evolución del Impuesto de Sucesiones y Donaciones en los años 2016 y 2017 entre Cataluña y Comunitat Valenciana desde un punto de vista objetivo, incidiendo en los principios de justicia tributaria y observando la jurisprudencia del Tribunal de Justicia de la Unión Europea y del Tribunal Constitucional.
 
@@ -25,6 +25,7 @@ summary: El presente Trabajo Fin de Grado analiza la evolución del Impuesto de 
 
 tags:
 - Derecho Tributario
+- Impuesto de Sucesiones y Donaciones
 featured: true
 
 # links:
@@ -63,9 +64,9 @@ projects:
 ---
 
 {{% alert note %}}
-Haga clic en el botón *Cite* de arriba para demostrar la función y permitir a los visitantes importar metadatos de publicación en su software de administración de referencia.
+Haga clic en el botón *Citar* de arriba para importar los metadatos de la publicación.
 {{% /alert %}}
 
 {{% alert note %}}
-Haga clic en el botón *PDF* de arriba para descargar el archivo PDF.
+Haga clic en el botón *PDF* de arriba para descargar el archivo PDF de la publicación.
 {{% /alert %}}
