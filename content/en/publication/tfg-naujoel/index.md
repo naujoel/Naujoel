@@ -29,7 +29,7 @@ categories:
 tags:
 - Derecho Tributario
 - Impuesto de Sucesiones y Donaciones
-featured: false
+featured: true
 
 # links:
 # - name: Custom Link
