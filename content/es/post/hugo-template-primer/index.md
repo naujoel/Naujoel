@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+# projects: []
 ---
 
 Hugo usa la excelente librería [go][] [html/template][gohtmltemplate] para su motor de plantillas. Es un motor extremadamente ligero que proporciona una muy pequeña cantidad de lógica. En nuestra experiencia, es la lógica justa para poder crear un buen sitio web estático. Si has utilizado otros sistemas de plantillas de diferentes idiomas o marcos, encontrarás muchas similitudes en las plantillas go.

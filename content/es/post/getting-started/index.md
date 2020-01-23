@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+# projects: []
 ---
 **Crea un sitio web gratuito con Academic utilizando Markdown, Jupyter o RStudio. Elige un hermoso tema y crea cualquier cosa con el Creador de páginas: más de 40 _widgets_, _themes_ y _paquetes de idiomas_ incluidos!**
 

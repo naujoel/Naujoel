@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+# projects: []
 ---
 
 Las etiquetas nos ayudan a pensar y facilitan la comunicación, es común etiquetar a los políticos con nombres como: republicanos, demócratas, conservadores, laboristas, rojos, fachas, liberales, progresistas, de izquierdas, de derechas, etc. Pero, ¿sabemos realmente su significado?¿**sabemos qué hay detrás de cada etiqueta**?
