@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include web development, mobile computing and international policy.
+bio: My research interests include web development, spanish Law and international politics.
 
 interests:
 - Web developments
-- International policy
+- spanish Law
 - Chess player
 
 education:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'about/'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.co.uk/
 - icon: github
   icon_pack: fab
-  link: https://github.com/naujoel
+  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

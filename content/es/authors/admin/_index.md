@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses de investigación incluyen el desarrollo web, la informática móvil y la política internacional.
+bio: Mis intereses de investigación incluyen el desarrollo web, el Derecho español y la política internacional.
 
 interests:
 - Desarrollo web
-- Política internacional
+- Derecho español
 - Ajedrez
 
 education:
