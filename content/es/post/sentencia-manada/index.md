@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sentencia Manada"
+title: "La malhadada Sentencia de la Manada"
 subtitle: ""
 summary: ""
 authors: []

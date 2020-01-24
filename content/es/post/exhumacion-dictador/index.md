@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Auto paraliza la exhumación del dictador"
+title: "El Tribunal Supremo paraliza la exhumación del dictador"
 subtitle: ""
 summary: "Haciéndonos eco del comunicado de Juezas y Jueces para la Democracia"
 authors: []

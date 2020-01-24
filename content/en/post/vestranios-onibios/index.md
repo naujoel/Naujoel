@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Vestranios Onibios"
+title: "Vestranios & Onibios"
 subtitle: ""
 summary: "Labels help us think and facilitate communication, it is common to label politicians with names such as: Republicans, Democrats, Conservatives, Labor, Reds, Facades, Liberals, Progressist, Left, Right, etc. But do we really know its meaning? Do we know what is behind each label?"
 authors: []

@@ -1,5 +1,5 @@
 ---
-title: "Dictator s exhumation order"
+title: "The Supreme Court paralyzes exhumation Dictator"
 subtitle: ""
 summary: "Echoing the Judges for Democracy communicate."
 authors: []
