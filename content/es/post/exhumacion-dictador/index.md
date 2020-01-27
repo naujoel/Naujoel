@@ -21,7 +21,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   placement: 1
-  caption: 'Image credit: [**Wikipedia**](https://wikipedia.org/)'
+  caption: 'Image credit: [**Karatara**](https://www.pexels.com/@karatara-278139?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)'
   focal_point: ""
   preview_only: false
 
