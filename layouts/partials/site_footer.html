@@ -14,7 +14,7 @@
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    Naujoël · Made with <i class="fas fa-heart"></i> and <i class="fas fa-coffee"></i> in Spain
+    Naujoël · Made with &nbsp;<i class="fas fa-heart"></i>&nbsp; and &nbsp;<i class="fas fa-coffee"></i>&nbsp; in Spain
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
