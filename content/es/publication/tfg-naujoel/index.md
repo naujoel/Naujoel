@@ -26,7 +26,7 @@ summary: El presente Trabajo Fin de Grado analiza la evolución del Impuesto de 
 tags:
 - Derecho Tributario
 - Impuesto de Sucesiones y Donaciones
-featured: true
+featured: false
 
 # links:
 # - name: Custom Link
