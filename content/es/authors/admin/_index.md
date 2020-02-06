@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Desarrollador web y Abogado
+role: Desarrollador Web y Abogado
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses de investigación incluyen el desarrollo web, el Derecho español y la política internacional.
+bio: Mis intereses de investigación incluyen el Desarrollo Web, el Derecho laboral y de la Seguridad Social y el Derecho de Seguros.
 
 interests:
 - Desarrollo web
@@ -33,7 +33,7 @@ education:
   - course: Grado en Derecho
     institution: Universidad Nacional de Educación a Distancia (UNED)
     year: 2018
-  - course: Ingeniería Técnica en informática de Gestión (ITIG)
+  - course: Ingeniería Técnica en informática de Gestión
     institution: Universidad Politécnica de Valencia (UPV)
     year: 2008
 
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-En Junio de 1981 mi padre me dijo "Ya has estudiado bastante chico, ahora a trabajar", yo tenía 13 años estaba en 8º EGB y me habían quedado pendientes para Septiembre: matemáticas, lenguaje y religión. No me presenté a la recuperación y no pude obtener el Graduado Escolar. A los 21 años murió mi padre y tuve que hacerme cargo del negocio familiar. A los 28 años me di cuenta de que si no cambiaba nada seguiría siendo lo que era para siempre, así que me arriesgué dejé el negocio y me puse a estudiar. Lo primero que hice fue obtener el Graduado Escolar en la Escuela de Adultos de Almansa. Hoy soy Ingeniero y Abogado, y puedo decir que aquélla fue la mejor decisión de mi vida.
+En Junio de 1981 mi padre me dijo "Ya has estudiado bastante chico, ahora a trabajar", yo tenía 13 años estaba en 8º EGB y me habían quedado pendientes para Septiembre: matemáticas, lenguaje y religión. No me presenté a la recuperación y no pude obtener el Graduado Escolar. A los 21 años murió mi padre y tuve que hacerme cargo del negocio familiar. A los 28 años me di cuenta de que si no cambiaba nada seguiría siendo lo que era para siempre, así que me arriesgué dejé el negocio y me puse a estudiar. Lo primero que hice fue obtener el Graduado Escolar en la Escuela de Adultos de Almansa. Hoy soy Ingeniero y Abogado, y puedo decir que aquélla fue una decisión muy acertada.

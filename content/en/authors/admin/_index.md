@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Web developer & Lawyer
+role: Web Developer & Lawyer
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include web development, spanish Law and international politics.
+bio: My research interests include Web Development, Labor and Social Security Law and Insurance Law.
 
 interests:
-- Web developments
-- spanish Law
-- Chess player
+- Web Developments
+- Labor and Social Security Law
+- Insurance Law
 
 education:
   courses:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/'  # For a direct email link, use "mailto:test@example.org".
+  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-In June 1981, my father told me "You have already studied quite a bit, now to work", I was 13 years old, I was studying 8th EGB and I had been pending for September: mathematics, language and religion. I didn't show up for recovery and I couldn't get the Primary School Graduate. At 21 my father died and I had to take care of the family business. At 28, I realized that if I didn't change anything, it would still be what it was forever, so I took the risk and left the business and started studying. The first thing I did was to obtain the Primary School Graduate at the Almansa Adult School. Today I am an Engineer and Lawyer, and I can say that this was the best decision of my life.
+In June 1981, my father told me "You have already studied quite a bit, now to work", I was 13 years old, I was studying 8th EGB and I had been pending for September: mathematics, language and religion. I didn't show up for recovery and I couldn't get the Primary School Graduate. At 21 my father died and I had to take care of the family business. At 28, I realized that if I didn't change anything, it would still be what it was forever, so I took the risk and left the business and started studying. The first thing I did was to obtain the Primary School Graduate at the Almansa Adult School. Today I am an Engineer and Lawyer, and I can say that this was an extremely wise decision.

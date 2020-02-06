@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Legislación Procesal Civil
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: 
 weight: 1
 
 # Page metadata.
