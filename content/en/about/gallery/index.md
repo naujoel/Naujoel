@@ -10,3 +10,13 @@ subtitle = ""
 +++
 
 {{< gallery >}}
+&nbsp;
+{{< youtube n1WFuQ0Zcf8 >}}
+&nbsp;
+{{< youtube 9B2zC8WhHFw >}}
+&nbsp;
+{{< youtube RKPnp8rkLIg >}}
+&nbsp;
+{{< youtube c1LArcZp4V8 >}}
+&nbsp;
+{{< youtube s-tHsXkm0IQ >}}
