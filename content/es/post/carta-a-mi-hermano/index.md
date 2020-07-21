@@ -89,6 +89,8 @@ Nosotros ya no disfrutábamos del terreno y no íbamos nunca allí, solo quería
 
 Una de las veces que fuimos a visitar a la mamá, ésta comenzó a tantearnos sobre la posibilidad de que Virginia se quedara mi parte. La mamá sabía que yo estaba desesperado por vender mi parte del terreno, así que sigilosamente fue induciéndome sobre la conveniencia de venderle mi parte a Virginia. Eran tan miserables que sólo nos ofrecían la cantidad que nosotros habíamos pagado, sin ninguna compensación añadida. Considerando que un año antes me daban el doble y no pude venderlo por culpa de la estafa tramada por Virginia y Vicente, y comprobar que tu propia madre está confabulando en tu contra, daba ganas de llorar. Pero que podía hacer yo, no encontraba ninguna salida, quería olvidarme de tantos problemas y pasar página, así que finalmente me convencieron y le vendí mi parte por lo mismo que costó, después de años de sufrimiento, sin ninguna compensación a cambio.
 
-Y estas son las razones por las que no me he vuelto a hablar ni con Virginia ni con Vicente, ni lo haré el resto de mi vida.
+Y estas son las razones por las que no he vuelto a dirigir la palabra ni a Virginia ni a Vicente, ni lo haré el resto de mi vida.
+
+Esta es toda la verdad, nada más que la verdad y la única verdad, por lo que deberías reenviar el enlace de este artículo a todas aquéllas personas que me conozcan: familia por parte de madre (tíos Pepe, Salvador, Rosa, y primos), familia por parte de padre (Ernesto), nuestros hermanos y sobrinos, así como a cualquiera que haya podido oír una historia tendenciosa sobre lo que aquí se cuenta.
 
 Un abrazo.
