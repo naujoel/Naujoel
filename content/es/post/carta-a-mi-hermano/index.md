@@ -12,7 +12,7 @@ categories: [
   Derecho y Política,
 ]
 date: 2020-07-21T06:24:02+01:00
-lastmod: 2020-07-21T06:24:02+01:00
+lastmod: 2020-07-21T09:24:02+01:00
 featured: false
 draft: false
 
@@ -75,7 +75,7 @@ Después de todos estos hechos, de haberla perdonado tantas veces y de haberme p
 
 Lo primero que hice fue ir al Ayuntamiento de Cullera para informarme sobre los planes de urbanización y al Registro de la Propiedad para averiguar el estado registral del terreno. Y cual fue mi sorpresa cuando descubrí que la referencia catastral que constaba en el contrato, no se correspondía con el terreno que ocupábamos, sino a un terreno inexistente que había sido engullido por el mar. También descubrí que los planes de urbanización estaban paralizados desde hacía mucho tiempo y no se esperaba que las cosas fueran a cambiar en poco tiempo. Y por último, pero no menos importante, también descubrí que el terreno formaba parte de una herencia litigiosa cuya solución se vislumbraba lejana.
 
-Anonadado por sentirme víctima de un engaño, me dirigí al vendedor para pedir explicaciones, a lo que este me contestó que Virginia y Vicente ya sabían todo eso cuando compraron el terreno y así prestaron su consentimiento en la compraventa.
+Anonadado por sentirme víctima de un engaño, me dirigí al vendedor para pedir explicaciones, a lo que este me contestó que Virginia y Vicente ya sabían todo eso cuando compraron el terreno, pues fueron ellos mismos quienes organizaron la trama con el fin de evitar que el resultado del litigio por la herencia pudiera privarles del terreno.
 
 Desolado al descubrir el fraude orquestado por mi propia hermana, solo tenía ganas de morirme.
 
