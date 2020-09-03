@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Front end developer handbook 2019
+linktitle: Manual del desarrollador front-end (2019)
 summary:
 weight: 1
 
 # Page metadata.
-title: Front end developer handbook 2019
+title: Manual del desarrollador front-end (2019)
 date: "2020-09-03T00:00:00Z"
 lastmod: "2020-09-03T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   front-end-developer-handbook-2019:
-    name: Front end developer handbook 2019
+    name: Manual del desarrollador front-end (2019)
     weight: 1
 ---
 
