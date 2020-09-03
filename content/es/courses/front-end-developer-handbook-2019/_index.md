@@ -38,4 +38,4 @@ La intención es publicar una actualización del contenido anualmente. Este es a
 
 El Capítulo 0 proporciona un resumen ligero del año en desarrollo de front-end y lo que puede venir. Los capítulos 1 y 2 tienen como objetivo brindar una breve descripción de la disciplina y la práctica del desarrollo de aplicaciones para el usuario. Los capítulos 3 y 4 organizan y recomiendan rutas de aprendizaje y recursos. El Capítulo 5 organiza y enumera las herramientas utilizadas por los desarrolladores de front-end y el Capítulo 6 destaca las salidas de información de front-end.
 
-Contribuya con contenido, sugerencias y correcciones en github: https: //github.com/FrontendMasters/front-end-handbook-2019
+Contribuya con contenido, sugerencias y correcciones en github: <https: //github.com/FrontendMasters/front-end-handbook-2019>
