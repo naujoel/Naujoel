@@ -1,6 +1,6 @@
 ---
-title: The Practice of Front-end Development. Overview
-linktitle: The Practice of Front-end Development. Overview
+title: Chapter 2. The Practice of Front-end Development. Overview
+linktitle: Chapter 2. The Practice of Front-end Development. Overview
 toc: true
 type: docs
 date: "2020-09-03T00:00:00+01:00"
@@ -22,7 +22,7 @@ How exactly does one become a front-end developer? Well, it's complicated. Just 
 
 ![Developer roadmap](/courses/front-end-developer-handbook-2019/chapter2-1.png)
 
-<div style="font-size: 10px; text-align: right">Image source: https://github.com/kamranahmedse/developer-roadmap</div>
+<div style="font-size: 12px; text-align: right">Image source: https://github.com/kamranahmedse/developer-roadmap</div>
 
 Today, in general, one can't go to college and expect to graduate with a degree in front-end engineering. And, I rarely hear of or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphicdesign degree to end up writing HTML, CSS, and JavaScript professionally. From my perspective, most of the people working on the front-end today generally seem to be self-taught from the ground up or cross over into the front-end space from design or computer science fields.
 
@@ -91,7 +91,7 @@ If you come across the "Full Stack" or the generic "Web Developer" terms in job 
 
 ## 2.3 - Baseline Web Technologies Employed by Front-End Developers
 
-![Web technologies](/courses/front-developer-handbook-2019/chapter2-7.png)
+![Web technologies](/courses/front-end-developer-handbook-2019/chapter2-7.png)
 
 The following core web technologies are employed by front-end developers (consider learning them in this order):
 
@@ -113,7 +113,7 @@ The nine technologies just mentioned are defined below along with a link to ther
 ### Hyper Text Markup Language (aka HTML)
 
 > HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language.<br>  
-<div style="font-size: 10px; text-align: right">— Wikipedia</div>
+<div style="font-size: 12px; text-align: right">— Wikipedia</div>
 
 Most relevant specifications / documentation:
 
@@ -129,7 +129,7 @@ Most relevant specifications / documentation:
 ### Cascading Style Sheets (aka CSS)“
 
 > Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. Although most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.<br>  
-<div style="font-size: 10px; text-align: right">— Wikipedia</div>
+<div style="font-size: 12px; text-align: right">— Wikipedia</div>
 
 Most relevant specifications / documentation:
 
@@ -141,7 +141,7 @@ Most relevant specifications / documentation:
 ### Hypertext Transfer Protocol (aka HTTP)
 
 > The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.<br>  
-<div style="font-size: 10px; text-align: right">— Wikipedia</div>
+<div style="font-size: 12px; text-align: right">— Wikipedia</div>
 
 Most relevant specifications:
 
@@ -151,7 +151,7 @@ Most relevant specifications:
 ### Uniform Resource Locators (aka URL)
 
 > A uniform resource locator (URL) (also called a web address) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI), although many people use the two terms interchangeably. A URL implies the means to access an indicated resource, which is not true of every URI. URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications.<br>  
-<div style="font-size: 10px; text-align: right">— Wikipedia</div>
+<div style="font-size: 12px; text-align: right">— Wikipedia</div>
 
 Most relevant specifications:
 
@@ -161,7 +161,7 @@ Most relevant specifications:
 ### Document Object Model (aka DOM)
 
 > The Document Object Model (DOM) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents. The nodes of every document are organized in a tree structure, called the DOM tree. Objects in the DOM tree may be addressed and manipulated by using methods on the objects. The public interface of a DOM is specified in its application programming interface (API).<br>  
-<div style="font-size: 10px; text-align: right">— Wikipedia</div>
+<div style="font-size: 12px; text-align: right">— Wikipedia</div>
 
 Most relevant specifications / documentation:
 
@@ -172,7 +172,7 @@ Most relevant specifications / documentation:
 ### JavaScript Programming Language (aka ECMAScript 262)
 
 > JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an APIfor working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.<br>  
-<div style="font-size: 10px; text-align: right">— Wikipedia</div>
+<div style="font-size: 12px; text-align: right">— Wikipedia</div>
 
 Most relevant specifications / documentation:
 
@@ -182,7 +182,7 @@ Most relevant specifications / documentation:
 ### Web APIs (aka HTML5 and friends)
 
 > When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site.<br>  
-<div style="font-size: 10px; text-align: right">— Mozilla</div>
+<div style="font-size: 12px; text-align: right">— Mozilla</div>
 
 Most relevant documentation:
 
@@ -191,7 +191,7 @@ Most relevant documentation:
 ### JavaScript Object Notation (aka JSON)
 
 > It is the primary data format used for asynchronous browser/server communication (A JA J), largely replacing XML (used by A JAX). Although originally derived from the JavaScript scripting language, JSON is a language-independent data format. Code for parsing and generating JSON data is readily available in many programming languages. The JSON format was originally specified by Douglas Crockford. It is currently described by two competing standards, RFC 7159 and ECMA-404. The ECMA standard is minimal, describing only the allowed grammar syntax, whereas the RFC also provides some semantic and security considerations. The official Internet media type for JSON is application/json. The JSON filename extension is .json.<br>  
-<div style="font-size: 10px; text-align: right">— Wikipedia</div>
+<div style="font-size: 12px; text-align: right">— Wikipedia</div>
 
 Most relevant specifications:
 
@@ -202,7 +202,7 @@ Most relevant specifications:
 ### Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 
 > Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” (i.e., unassisted) and "indirect access" meaning compatibility with a person's assistive technology (for example, computer screen readers).<br>  
-<div style="font-size: 10px; text-align: right">— Wikipedia</div>
+<div style="font-size: 12px; text-align: right">— Wikipedia</div>
 
 - Web Accessibility Initiative (WAI)
 - Web Content Accessibility Guidelines (WCAG) Current Status
@@ -211,7 +211,7 @@ Most relevant specifications:
 
 ![Collage techologies](/courses/front-end-developer-handbook-2019/chapter2-2.png)
 
-<div style="font-size: 10px; text-align: right">Image source: http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</div>
+<div style="font-size: 12px; text-align: right">Image source: http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</div>
 
 A basic to advanced understanding of HTML, CSS, DOM, JavaScript, HTTP/URL, and web browsers is assumed for any type of professional front-end developer role.
 
@@ -290,7 +290,7 @@ These operating systems typically run on one or more of the following  devices:
 
 ![Growth in the internet of things](/courses/front-end-developer-handbook-2019/chapter2-3.png)
 
-<div style="font-size: 10px; text-align: right">Image source: https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</div>
+<div style="font-size: 12px; text-align: right">Image source: https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</div>
 
 Generally speaking, front-end technologies can run on the aforementioned operating systems and devices using the following run time web platform scenarios:
 
@@ -330,11 +330,11 @@ The term "Full-Stack" developer has come to take on several meanings. So many, t
 
 ![Which one of these roles are you most interested in?](/courses/front-end-developer-handbook-2019/chapter2-5.png)
 
-<div style="font-size: 10px; text-align: right">Image source: https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz</div>
+<div style="font-size: 12px; text-align: right">Image source: https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz</div>
 
 ![Developer roles](/courses/front-end-developer-handbook-2019/chapter2-6.png)
 
-<div style="font-size: 10px; text-align: right">Image source: https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types</div>
+<div style="font-size: 12px; text-align: right">Image source: https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types</div>
 
 The roles to design and develop a website or web application require a deep set of skills and vast experience in the area of visual design, UI/interaction design, front-end development, and back-end development. Any person who can fill one or more of these 4 roles at a professional level is an extremely rare commodity.
 
