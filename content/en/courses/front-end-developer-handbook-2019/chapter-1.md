@@ -22,7 +22,7 @@ The objective of designing a site is to ensure that when the users open up the s
 platform) and different devices (cross-device), which requires careful planning on the side of the developer.<br>  
 <https://en.wikipedia.org/wiki/Front-end_web_development>
 
-![Petición de recurso de internet](chapter1-1.png)
+![Petición de recurso de internet](courses/front-end-developer-handbook-2019/chapter1-1.png)
 
 Image source: https://www.upwork.com/hiring/development/front-end-developer/
 
