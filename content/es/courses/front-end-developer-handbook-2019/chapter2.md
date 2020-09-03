@@ -22,7 +22,7 @@ Este capítulo desglosará y describirá ampliamente la práctica de la ingenier
 
 ![Hoja de ruta del desarrollador](/courses/front-end-developer-handbook-2019/chapter2-1.png)
 
-Fuente de la imagen: https://github.com/kamranahmedse/developer-roadmap
+<div style="font-size: 12px;text-align: right">Fuente de la imagen: https://github.com/kamranahmedse/developer-roadmap</div>
 
 Hoy en día, en general, uno no puede ir a la universidad y esperar graduarse con un título en ingeniería de front-end. Y, rara vez escucho o conozco a desarrolladores front-end que sufrieron lo que probablemente sea un título en ciencias de la computación obsoleto o un título en diseño gráfico para terminar escribiendo HTML, CSS y JavaScript profesionalmente. Desde mi perspectiva, la mayoría de las personas que trabajan en el front-end hoy en día generalmente parecen ser autodidactas desde cero o cruzar al espacio del front-end desde los campos del diseño o la informática.
 
