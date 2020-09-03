@@ -17,11 +17,11 @@ weight: 2
 Este capítulo proporciona una explicación básica para el desarrollo de front-end y la disciplina de desarrollador de front-end.
 
 > El desarrollo web front-end, también conocido como desarrollo del lado del cliente, es la práctica de producir HTML, CSS y JavaScript para un sitio web o aplicación web, de modo que un usuario pueda verlos e interactuar con ellos directamente.<br>  
-El desafío asociado con el desarrollo de front-end es que las herramientas y técnicas utilizadas para crear el front-end de un sitio web cambian constantemente, por lo que el desarrollador debe estar constantemente al tanto de cómo se está desarrollando el campo.<br>
-El objetivo de diseñar un sitio es garantizar que cuando los usuarios abren el sitio vean la información en un formato que sea fácil de leer y relevante. Esto se complica aún más por el hecho de que los usuarios ahora usan una gran variedad de dispositivos con diferentes tamaños de pantalla y resoluciones, lo que obliga al diseñador a tener en cuenta estos aspectos al diseñar el sitio. Deben asegurarse de que su sitio aparezca correctamente en diferentes navegadores (cross-browser), diferentes sistemas operativos (plataforma) y diferentes dispositivos (multidispositivo), lo que requiere una planificación cuidadosa por parte del desarrollador.<br>
+El desafío asociado con el desarrollo de front-end es que las herramientas y técnicas utilizadas para crear el front-end de un sitio web cambian constantemente, por lo que el desarrollador debe estar constantemente al tanto de cómo se está desarrollando el campo.<br>  
+El objetivo de diseñar un sitio es garantizar que cuando los usuarios abren el sitio vean la información en un formato que sea fácil de leer y relevante. Esto se complica aún más por el hecho de que los usuarios ahora usan una gran variedad de dispositivos con diferentes tamaños de pantalla y resoluciones, lo que obliga al diseñador a tener en cuenta estos aspectos al diseñar el sitio. Deben asegurarse de que su sitio aparezca correctamente en diferentes navegadores (cross-browser), diferentes sistemas operativos (plataforma) y diferentes dispositivos (multidispositivo), lo que requiere una planificación cuidadosa por parte del desarrollador.<br>  
 <https://en.wikipedia.org/wiki/Front-end_web_development>
 
-![Petición de recurso de internet](images/front-end-developer-handbook-2019/chapter1-1.png)
+![Petición de recurso de internet](chapter1-1.png)
 
 Fuente de la imagen: https://www.upwork.com/hiring/development/front-end-developer/
 
@@ -74,5 +74,5 @@ Algunos ejemplos de estos entornos son:
 - [React Native](https://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
 
-> Notas:<br> 
+> Notas:<br>  
 \ 1. Asegúrese de tener claro qué se entiende exactamente por "plataforma web". Lea la página de Wikipedia "[Plataforma web abierta](https://en.wikipedia.org/wiki/Open_Web_Platform)". Explore las [muchas tecnologías](https://platform.html5.org/) que componen la plataforma web.
