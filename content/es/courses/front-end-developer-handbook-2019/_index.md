@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   front-end-developer-handbook-2019:
-    name: Manual del desarrollador front-end (2019)
+    name: Front-end developer handbook 2019
     weight: 1
 ---
 
