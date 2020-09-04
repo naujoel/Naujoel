@@ -22,7 +22,7 @@ Este capítulo desglosará y describirá ampliamente la práctica de la ingenier
 
 ![Hoja de ruta del desarrollador](/courses/front-end-developer-handbook-2019/chapter2-1.png)
 
-<div style="font-size: 12px;text-align: right">Fuente de la imagen: https://github.com/kamranahmedse/developer-roadmap</div>
+<div class="source">Fuente de la imagen: https://github.com/kamranahmedse/developer-roadmap</div>
 
 Hoy en día, en general, uno no puede ir a la universidad y esperar graduarse con un título en ingeniería de front-end. Y, rara vez escucho o conozco a desarrolladores front-end que sufrieron lo que probablemente sea un título en ciencias de la computación obsoleto o un título en diseño gráfico para terminar escribiendo HTML, CSS y JavaScript profesionalmente. Desde mi perspectiva, la mayoría de las personas que trabajan en el front-end hoy en día generalmente parecen ser autodidactas desde cero o cruzar al espacio del front-end desde los campos del diseño o la informática.
 
@@ -132,7 +132,7 @@ Especificaciones / documentación más relevantes:
 ### Hojas de estilo en cascada (también conocidas como CSS)
 
 > Hojas de estilo en cascada (CSS) es un lenguaje de hojas de estilo que se utiliza para describir el aspecto y el formato de un documento escrito en un lenguaje de marcado. Aunque se utiliza con mayor frecuencia para cambiar el estilo de las páginas web y las interfaces de usuario escritas en HTML y XHTML, el lenguaje se puede aplicar a cualquier tipo de documento XML, incluidos XML simple, SVG y XUL. Junto con HTML y JavaScript, CSS es una tecnología fundamental utilizada por la mayoría de los sitios web para crear páginas web visualmente atractivas, interfaces de usuario para aplicaciones web e interfaces de usuario para muchas aplicaciones móviles.<br>  
-<div style="font-size: 12px;text-align: right">- Wikipedia</div>
+<div class="source">- Wikipedia</div>
 
 Especificaciones / documentación más relevantes:
 
