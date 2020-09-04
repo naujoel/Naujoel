@@ -20,11 +20,11 @@ This chapter provides a baseline explanation for front-end development and the f
 The challenge associated with front end development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing.<br>  
 The objective of designing a site is to ensure that when the users open up the site they see the information in a format that is easy to read and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site. They need to ensure that their site comes up correctly in different browsers (cross-browser), different operating systems (cross-
 platform) and different devices (cross-device), which requires careful planning on the side of the developer.<br>  
-<div style="font-size: 10px; text-align: right">-[Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)</div>
+<div class="source">-[Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)</div>
 
 ![Petición de recurso de internet](/courses/front-end-developer-handbook-2019/chapter1-1.png)
 
-<div style="font-size: 10px; text-align: right">Image source: https://www.upwork.com/hiring/development/front-end-developer/</div>
+<div class="source">Image source: https://www.upwork.com/hiring/development/front-end-developer/</div>
 
 ## A Front-end Developer...
 

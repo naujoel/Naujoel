@@ -19,11 +19,11 @@ Este capítulo proporciona una explicación básica para el desarrollo de front-
 > El desarrollo web front-end, también conocido como desarrollo del lado del cliente, es la práctica de producir HTML, CSS y JavaScript para un sitio web o aplicación web, de modo que un usuario pueda verlos e interactuar con ellos directamente.<br>  
 El desafío asociado con el desarrollo de front-end es que las herramientas y técnicas utilizadas para crear el front-end de un sitio web cambian constantemente, por lo que el desarrollador debe estar constantemente al tanto de cómo se está desarrollando el campo.<br>  
 El objetivo de diseñar un sitio es garantizar que cuando los usuarios abren el sitio vean la información en un formato que sea fácil de leer y relevante. Esto se complica aún más por el hecho de que los usuarios ahora usan una gran variedad de dispositivos con diferentes tamaños de pantalla y resoluciones, lo que obliga al diseñador a tener en cuenta estos aspectos al diseñar el sitio. Deben asegurarse de que su sitio aparezca correctamente en diferentes navegadores (cross-browser), diferentes sistemas operativos (plataforma) y diferentes dispositivos (multidispositivo), lo que requiere una planificación cuidadosa por parte del desarrollador.<br>  
-<div style="font-size: 10px; text-align: right">-[Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)</div>
+<div class="source">-[Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)</div>
 
 ![Petición de recurso de internet](/courses/front-end-developer-handbook-2019/chapter1-1.png)
 
-<div style="font-size: 10px; text-align: right">Fuente de la imagen: https://www.upwork.com/hiring/development/front-end-developer/</div>
+<div class="source">Fuente de la imagen: https://www.upwork.com/hiring/development/front-end-developer/</div>
 
 ## Un desarrollador front-end ...
 

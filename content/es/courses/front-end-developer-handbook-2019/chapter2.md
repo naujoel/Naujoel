@@ -116,7 +116,7 @@ Las nueve tecnologías que se acaban de mencionar se definen a continuación jun
 ### Lenguaje de marcado de hipertexto (también conocido como HTML)
 
 > El lenguaje de marcado de hipertexto, comúnmente conocido como HTML, es el lenguaje de marcado estándar utilizado para crear páginas web. HTML describe la estructura de un sitio web semánticamente junto con pistas para la presentación, lo que lo convierte en un lenguaje de marcado, en lugar de un lenguaje de programación.<br>  
-<div style="font-size: 12px; text-align: right">- Wikipedia</div>
+<div class="source">- Wikipedia</div>
 
 Especificaciones / documentación más relevantes:
 
@@ -144,7 +144,7 @@ Especificaciones / documentación más relevantes:
 ### Protocolo de transferencia de hipertexto (también conocido como HTTP)
 
 > El Protocolo de transferencia de hipertexto (HTTP) es un protocolo de aplicación para sistemas de información distribuidos, colaborativos e hipermedia. HTTP es la base de la comunicación de datos para la World Wide Web.<br>  
-<div style="font-size: 12px; text-align: right">- Wikipedia</div>
+<div class="source">- Wikipedia</div>
 
 Especificaciones más relevantes:
 
@@ -154,7 +154,7 @@ Especificaciones más relevantes:
 ### Localizadores uniformes de recursos (también conocidos como URL)
 
 > Un localizador uniforme de recursos (URL) (también llamado dirección web) es una referencia a un recurso que especifica la ubicación del recurso en una red informática y un mecanismo para recuperarlo. Una URL es un tipo específico de identificador uniforme de recursos (URI), aunque muchas personas usan los dos términos indistintamente. Una URL implica los medios para acceder a un recurso indicado, lo que no es cierto para todos los URI. Las URL ocurren con mayor frecuencia para hacer referencia a páginas web (http), pero también se utilizan para transferencia de archivos (ftp), correo electrónico (mailto), acceso a bases de datos (JDBC) y muchas otras aplicaciones.<br>  
-<div style="font-size: 12px; text-align: right">- Wikipedia</div>
+<div class="source">- Wikipedia</div>
 
 Especificaciones más relevantes:
 
@@ -164,7 +164,7 @@ Especificaciones más relevantes:
 ### Modelo de objeto de documento (también conocido como DOM)
 
 > El Document Object Model (DOM) es multiplataforma y una convención independiente del lenguaje para representar e interactuar con objetos en documentos HTML, XHTML y XML. Los nodos de cada documento están organizados en una estructura de árbol, llamada árbol DOM. Los objetos en el árbol DOM se pueden direccionar y manipular utilizando métodos en los objetos. La interfaz pública de un DOM se especifica en su interfaz de programación de aplicaciones (API).<br>  
-<div style="font-size: 12px; text-align: right">- Wikipedia</div>
+<div class="source">- Wikipedia</div>
 
 Especificaciones / documentación más relevantes:
 
@@ -175,7 +175,7 @@ Especificaciones / documentación más relevantes:
 ### Lenguaje de programación JavaScript (también conocido como ECMAScript 262)
 
 > JavaScript es un lenguaje de programación de alto nivel, dinámico, sin tipo e interpretado. Se ha estandarizado en la especificación del lenguaje ECMAScript. Junto con HTML y CSS, es una de las tres tecnologías esenciales de la producción de contenido en la World Wide Web; la mayoría de los sitios web lo utilizan y es compatible con todos los navegadores web modernos sin complementos. JavaScript está basado en prototipos con funciones de primera clase, lo que lo convierte en un lenguaje de múltiples paradigmas, que admite estilos de programación orientados a objetos, imperativos y funcionales. Tiene una API para trabajar con texto, matrices, fechas y expresiones regulares, pero no incluye ninguna E/S, como redes, almacenamiento o instalaciones de gráficos, confiando para estos en el entorno host en el que está integrado.<br>  
-<div style="font-size: 12px; text-align: right">- Wikipedia</div>
+<div class="source">- Wikipedia</div>
 
 Especificaciones / documentación más relevantes:
 
@@ -185,7 +185,7 @@ Especificaciones / documentación más relevantes:
 ### API web (también conocidas como HTML5 y amigos)
 
 > Al escribir código para la Web usando JavaScript, hay muchas API disponibles. A continuación se muestra una lista de todas las interfaces (es decir, tipos de objetos) que puede utilizar mientras desarrolla su sitio o aplicación web.<br>  
-<div style="font-size: 12px; text-align: right">- Mozilla</div>
+<div class="source">- Mozilla</div>
 
 Documentación más relevante:
 
@@ -194,7 +194,7 @@ Documentación más relevante:
 ### Notación de objetos JavaScript (también conocida como JSON)
 
 > Es el formato de datos principal utilizado para la comunicación asíncrona entre navegador y servidor (AJAJ), que reemplaza en gran medida al XML (utilizado por AJAX). Aunque originalmente se deriva del lenguaje de secuencias de comandos de JavaScript, JSON es un formato de datos independiente del lenguaje. El código para analizar y generar datos JSON está disponible en muchos lenguajes de programación. El formato JSON fue especificado originalmente por Douglas Crockford. Actualmente está descrito por dos estándares competidores, RFC 7159 y ECMA-404. El estándar ECMA es mínimo, y describe solo la sintaxis gramatical permitida, mientras que el RFC también proporciona algunas consideraciones semánticas y de seguridad. El tipo de medio oficial de Internet para JSON es application/json. La extensión del nombre de archivo JSON es .json.<br>  
-<div style="font-size: 12px; text-align: right">- Wikipedia</div>
+<div class="source">- Wikipedia</div>
 
 Especificaciones más relevantes:
 
@@ -205,7 +205,7 @@ Especificaciones más relevantes:
 ### Pautas de accesibilidad al contenido web (también conocidas como WCAG) y aplicaciones enriquecidas de Internet accesibles (también conocidas como ARIA)
 
 > La accesibilidad se refiere al diseño de productos, dispositivos, servicios o entornos para personas con discapacidad. El concepto de diseño accesible garantiza tanto el "acceso directo" (es decir, sin asistencia) como el "acceso indirecto", lo que significa compatibilidad con la tecnología de asistencia de una persona (por ejemplo, lectores de pantalla de computadora).<br>  
-<div style="font-size: 12px; text-align: right">- Wikipedia</div>
+<div class="source">- Wikipedia</div>
 
 - [Iniciativa de accesibilidad web (WAI)](https://www.w3.org/WAI/standards-guidelines/)
 - [Estado actual de las Pautas de accesibilidad al contenido web (WCAG)](http://www.w3.org/standards/techs/wcag#w3c_all)
@@ -214,7 +214,7 @@ Especificaciones más relevantes:
 
 ![Colage de habilidades](/courses/front-end-developer-handbook-2019/chapter2-2.png)
 
-<div style="font-size: 12px; text-align: right">Fuente de la imagen: http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</div>
+<div class="source">Fuente de la imagen: http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</div>
 
 Se asume un conocimiento básico a avanzado de HTML, CSS, DOM, JavaScript, HTTP / URL y navegadores web para cualquier tipo de rol de desarrollador de aplicaciones para usuario.
 
@@ -293,7 +293,7 @@ Estos sistemas operativos normalmente se ejecutan en uno o más de los siguiente
 
 ![Número de dispositivos conectados a internet](/courses/front-end-developer-handbook-2019/chapter2-3.png)
 
-<div style="font-size: 12px; text-align: right">Fuente de la imagen: https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</div>
+<div class="source">Fuente de la imagen: https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</div>
 
 En términos generales, las tecnologías front-end se pueden ejecutar en los sistemas operativos y dispositivos mencionados anteriormente utilizando los siguientes escenarios de plataforma web en tiempo de ejecución:
 
@@ -332,11 +332,11 @@ El término desarrollador "Full-Stack" ha adquirido varios significados. Tantos,
 
 ![Qué rol te interesa](/courses/front-end-developer-handbook-2019/chapter2-5.png)
 
-<div style="font-size: 12px; text-align: right">Fuente de la imagen: https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz</div>
+<div class="source">Fuente de la imagen: https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz</div>
 
 ![Tipo de desarrollador](/courses/front-end-developer-handbook-2019/chapter2-6.png)
 
-<div style="font-size: 12px; text-align: right">Fuente de la imagen: https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types</div>
+<div class="source">Fuente de la imagen: https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types</div>
 
 Los roles para diseñar y desarrollar un sitio web o una aplicación web requieren un conjunto profundo de habilidades y una vasta experiencia en el área de diseño visual, diseño de interfaz de usuario/interacción, [desarrollo front-end](https://github.com/kamranahmedse/developer-roadmap#-front-end-roadmap) y [desarrollo back-end](https://github.com/kamranahmedse/developer-roadmap#-back-end-roadmap). Cualquier persona que pueda desempeñar uno o más de estos 4 roles a nivel profesional es un bien extremadamente raro.
 
