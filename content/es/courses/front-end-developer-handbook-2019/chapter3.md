@@ -721,16 +721,16 @@ Una vez que tenga un buen manejo de React, continúe con el aprendizaje de una s
 > A diferencia de las aplicaciones tradicionales, las aplicaciones web progresivas son un híbrido de páginas web (o sitios web) normales y una aplicación móvil. Este nuevo modelo de aplicación intenta combinar las características que ofrecen la mayoría de los navegadores modernos con los beneficios de la experiencia móvil.<br>
 En 2015, la diseñadora Frances Berriman y el ingeniero de Google Chrome Alex Russell acuñaron el término "Aplicaciones web progresivas" para describir las aplicaciones que aprovechan las nuevas funciones compatibles con los navegadores modernos, incluidos Service Workers y Manifiestos de aplicaciones web, que permiten a los usuarios actualizar las aplicaciones web para ser aplicaciones de primera clase en su sistema operativo nativo.<br>
 Según Google Developers, estas características son:<br>
-- Progresivo: funciona para todos los usuarios, independientemente de la elección del navegador, ya que se construyeron con la mejora progresiva como principio fundamental.
-- Capacidad de respuesta: se adapta a cualquier factor de forma: escritorio, dispositivo móvil, tableta o formularios que aún no han aparecido.
-- Independiente de la conectividad: los trabajadores del servicio permiten trabajar sin conexión o en redes de baja calidad.
-- Similar a una aplicación: siéntase como una aplicación para el usuario con interacciones y navegación al estilo de una aplicación.
-- Fresco: siempre actualizado gracias al proceso de actualización del trabajador de servicio.
-- Seguro: se sirve a través de HTTPS para evitar espionaje y garantizar que el contenido no haya sido manipulado.
-- Descubribles: se pueden identificar como "aplicaciones" gracias a los manifiestos del W3C [6] y al alcance de registro del trabajador de servicios que permite a los motores de búsqueda encontrarlas.
-- Re-interacción: facilite la re-interacción a través de funciones como notificaciones automáticas.
-- Instalable: permite a los usuarios "conservar" las aplicaciones que encuentran más útiles en su pantalla de inicio sin la molestia de una tienda de aplicaciones.
-- Vinculable: se comparte fácilmente a través de una URL y no requiere una instalación compleja.<br>  
+> - Progresivo: funciona para todos los usuarios, independientemente de la elección del navegador, ya que se construyeron con la mejora progresiva como principio fundamental.
+> - Capacidad de respuesta: se adapta a cualquier factor de forma: escritorio, dispositivo móvil, tableta o formularios que aún no han aparecido.
+> - Independiente de la conectividad: los trabajadores del servicio permiten trabajar sin conexión o en redes de baja calidad.
+> - Similar a una aplicación: siéntase como una aplicación para el usuario con interacciones y navegación al estilo de una aplicación.
+> - Fresco: siempre actualizado gracias al proceso de actualización del trabajador de servicio.
+> - Seguro: se sirve a través de HTTPS para evitar espionaje y garantizar que el contenido no haya sido manipulado.
+> - Descubribles: se pueden identificar como "aplicaciones" gracias a los manifiestos del W3C [6] y al alcance de registro del trabajador de servicios que permite a los motores de búsqueda encontrarlas.
+> - Re-interacción: facilite la re-interacción a través de funciones como notificaciones automáticas.
+> - Instalable: permite a los usuarios "conservar" las aplicaciones que encuentran más útiles en su pantalla de inicio sin la molestia de una tienda de aplicaciones.
+> - Vinculable: se comparte fácilmente a través de una URL y no requiere una instalación compleja.<br>  
 <div class="source">- Wikipedia</div>
 
 - Una guía para principiantes sobre aplicaciones web progresivas [leer]
