@@ -228,7 +228,7 @@ Como mínimo, sugeriría leer los siguientes textos canónicos sobre el tema par
 ## 3.8 - Aprenda HTML y CSS
 
 > **HTML**: el lenguaje de marcado de hipertexto, comúnmente conocido como HTML, es el lenguaje de marcado estándar que se utiliza para crear páginas web. Los navegadores web pueden leer archivos HTML y convertirlos en páginas web visibles o audibles. HTML describe la estructura de un sitio web semánticamente junto con pistas para la presentación, lo que lo convierte en un lenguaje de marcado, en lugar de un lenguaje de programación.<br>  
-<div class="source">- Wikipedia<div>
+<div class="source">- Wikipedia</div>
 
 > **CSS**: hojas de estilo en cascada (CSS) es un lenguaje de hojas de estilo que se utiliza para describir el aspecto y el formato de un documento escrito en un lenguaje de marcado. Aunque se utiliza con mayor frecuencia para cambiar el estilo de las páginas web y las interfaces de usuario escritas en HTML y XHTML, el lenguaje se puede aplicar a cualquier tipo de documento XML, incluidos XML simple, SVG y XUL. Junto con HTML y JavaScript, CSS es una tecnología fundamental utilizada por la mayoría de los sitios web para crear páginas web visualmente atractivas, interfaces de usuario para aplicaciones web e interfaces de usuario para muchas aplicaciones móviles.<br>  
 <div class="source">- Wikipedia</div>
