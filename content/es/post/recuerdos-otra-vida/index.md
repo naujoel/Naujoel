@@ -1,12 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Carta a mi hermano"
+title: "Recuerdos de otra vida"
 subtitle: ""
 summary: ""
 authors: []
 tags: [
-  Obligaciones y contratos,
 ]
 categories: [
   Derecho y Política,
@@ -33,17 +32,25 @@ image:
 # projects: []
 ---
 
-Hola Juanjo,
+La casualidad quiso que el pasado domingo coincidiéramos, en la puerta del almacén, nuestro sobrino Carlos y nosotros, cuando volvíamos de caminar María Jesús y yo.
 
-la casualidad quiso que el pasado domingo coincidiéramos, en la puerta del almacén, nuestro sobrino Carlos y nosotros, cuando volvíamos de caminar María Jesús y yo.
-
-Ese almacén sólo me trae malos recuerdos. Recuerdos de las veces que nos entraron a robar, de acabar de noche de trabajar con la ropa mojada en invierno, de trabajar a oscuras porque no había luz, de subir sacos de sosa a la terraza, de los martillazos en la mano cuando apretaba los aros de los toneles, de los cientos de cuarterolas (que pesaban 250 kg) que a lo largo de los años tuve que mover de un lado a otro con un carro empujado a fuerza bruta que cuando tenía las ruedas deshinchadas requería doble esfuerzo y no podía hincharlas porque había que ir a la gasolinera a hincharlas, etc.
+Ese almacén sólo me trae malos recuerdos. Recuerdos de las veces que nos entraron a robar, de acabar de noche de trabajar con la ropa mojada en invierno, de trabajar a oscuras porque no había luz, de subir sacos de sosa de 50 kg a la terraza, de los martillazos en la mano cuando apretaba los aros de los toneles, de los cientos de cuarterolas (que pesaban 250 kg) que a lo largo de los años tuve que mover de un lado a otro con un carro empujado a fuerza bruta que cuando tenía las ruedas deshinchadas requería doble esfuerzo y no podía hincharlas porque había que ir a la gasolinera a hincharlas, etc.
 
 Lo peor es que ese almacén fue la fuente principal de todas las discusiones en el seno familiar desde que tengo uso de razón, ya que al estar ubicado en zona rústica no gozaba de los servicios públicos (agua, desagüe, electricidad, correo, iluminación pública, etc). De una parte estaba yo, que era partidario de vender ese almacén y comprar otro (o hacer otro) en un lugar adecuado (ej. un polígono industrial). Y de la opinión contraria estaba el Papá, que prefería dejar las cosas como estaban. En medio estaban nuestras hermanas y la Mamá, que me daban la razón a mí pero sin embargo preferían no mediar ni promover aquéllas actuaciones que la empresa necesitaba.
 
 Cuando Papá compró el terreno para hacer ese almacén, dudaba entre dos terrenos, uno es en el que se encuentra hoy el almacén y el otro es en el que se encuentra actualmente la Policía Local. Finalmente se decidió por el menos afortunado, alegando que quería estar tranquilo. Una decisión lamentable aunque comprensible, pues cuando azufrabamos los pimientos en la casa de la calle San Pedro, el olor llegaba a varias calles alrededor.
 
 Recuerdo algunas cosas gravemente reprochables de aquel entonces. De un lado, fue determinante que Papá no reconociera su error para perder el tren industrial, pues la década de los 80 fueron los primeros años post-dictadura y todas las industrias se estaban modernizando, cosa que nosotros no pudimos hacer. De otro, la justificación que daba la Mamá, tanto al Papá como a mí, era que no había dinero para hacer cambios, lo que era totalmente falso, tal y como se demostró al morir Papá, pues una de las cosas que le aconsejó el abogado que hiciera con tanto dinero negro fue construir los dos pisos que actualmente hay en la calle Maestro Giner. Y de otro, que durante los 9 años en que estuve trabajando "codo con codo" con Papá, no cobré ni un sólo mes de nómina, debido a la visión distorsionada que nuestros padres tenían de la vida.
+
+Aquélla época fue dura para mí, ya no sólo porque me robaran mi adolescencia, sino porque era realmente dura incluso para un hombre adulto. Desde los 13 años tuve que andar al lado de Papá en todo momento. Si había mercado nos levantábamos a las 5 h de la madrugada para cargar el camión. Una vez ya cargado, se levantaban nuestras hermanas para irnos juntos a vender al mercado. Hubo un tiempo en que trabajamos juntos en el negocio familiar, pero fue breve. Mi hermana Mª Teresa se casó a los 20 años y nos dejó pronto. A los pocos años se casó Virginia e hizo lo mismo. Y por supuesto hizo lo propio mi hermana Rosa. De modo que la segunda mitad del periodo fue estando solos Papá y yo, más algunas contrataciones ocasionales de personas que siempre nos abandonaban unos meses después.
+
+Y es que aquéllo fue duro. A la inexistencia de electricidad y servicios públicos en el almacén, había que sumar que no había ventanas que resguardaran del frío y en invierno trabajando a base de fuerza bruta llenando barriles de caldo que salpicaba, siempre acababas mojado y tiritando. Además, para mi desgracia, por alguna extraña razón de primogenitura, tenía que estar al lado de Papá desde que se levantaba hasta la hora de cenar, lo cual quiere decir que pasé mi adolescencia trabajando desde las 5 h de la madrugada hasta las 21 h de la noche.
+
+Pero ahí no acaban todos mis malos recuerdos. El 20 de octubre de 1982 ocurrió "la pantaná", yo tenía 14 años, y el agua nos pilló el camión en la calle, por lo que Papá tuvo que cambiar de camión, pero aprovechó la caja del viejo para ponérsela al nuevo, de modo que íbamos a repartir aceitunas con un camión nuevo con la caja vieja. Pues bien, el mayor avance técnico que Papá hizo entonces fue que, dado que cuando íbamos a repartir aceitunas a los bares se volcaban los barriles y se derramaban las aceitunas por el suelo del camión y tenía que recogerlas y volverlas al barril para enjuagarlas cuando volviéramos a casa, mi padre hizo un suelo con tiras de madera separadas 1 cm a modo de escurridor, para que cuando se derramaran las aceitunas se pudieran recoger mejor. Esa es una muestra del alcance de la visión industrial que tenía Papá.
+
+Y en fin, así podría seguir contando innumerables anécdotas a cual más dura de soportar para un joven adolescente, escribiendo este párrafo me vienen a la mente montones de casos de la misma especie que deberían engrosar estos recuerdos: la vergüenza que pasaba cuando me veían los jóvenes de mi edad repartiendo olivas; el olor perpetuo en la nariz que aún recién duchado parecía que desprendía yo; las veces que se desparramaban olivas por el suelo por algún accidente y las recogíamos del suelo delante de la gente; cuando íbamos al río a tirar las aceitunas que se habían estropeado; etc.
+
+Si he de ser sincero, no todo fue malo, recuerdo que me gustaba el olor que desprendían las aceitunas crudas recién machacadas... pero poco más.
 
 En la charla que mantuvimos el pasado domingo con Carlos pudimos comprobar que tenéis una concepción totalmente falsa sobre Virginia y el terreno de Cullera, y debéis saber la verdad, la única que existe, la que se puede demostrar con pruebas o testigos.
 
@@ -91,6 +98,4 @@ Una de las veces que fuimos a visitar a la mamá, ésta comenzó a tantearnos so
 
 Y estas son las razones por las que no he vuelto a dirigir la palabra ni a Virginia ni a Vicente, ni lo haré el resto de mi vida.
 
-Esta es toda la verdad, nada más que la verdad y la única verdad, por lo que deberías reenviar el enlace de este artículo a todas aquéllas personas que me conozcan: familia por parte de madre (tíos Pepe, Salvador, Rosa, y primos), familia por parte de padre (Ernesto), nuestros hermanos y sobrinos, así como a cualquiera que haya podido oír una versión tendenciosa sobre los hechos realmente ocurridos.
-
-Un abrazo.
+Esta es toda la verdad y la única verdad, por lo que deberías reenviar el enlace de este artículo a todas aquéllas personas que me conozcan: familia por parte de madre (tíos Pepe, Salvador, Rosa, y primos), familia por parte de padre (Ernesto), nuestros hermanos y sobrinos, así como a cualquiera que haya podido oír una versión tendenciosa sobre los hechos realmente ocurridos.
