@@ -24,7 +24,7 @@ Mi padre y yo ya no hablábamos casi nada. Yo sabía lo que había que hacer en 
 
 A partir de algún día de 1988 empecé a notar que la conducta de mi padre no era normal, pasaba demasiado tiempo con la cabeza boca abajo sobre sus brazos encima de la mesa camilla, como si estuviera durmiendo. Yo no hubiera sospechado nada, si eso pasara en la hora de la siesta, o después de cenar, pero estaba pasando en horario laboral y sabía que mi padre no estaría haciendo eso conscientemente. Cuando mi madre notó que yo sospechaba algo me lo contó. Mi padre había sufrido una trombosis cerebral.
 
-Aquello fue un shock para mí, toda mi vida había sido una discusión continua con él, pero yo le quería y le respetaba profundamente, porque a pesar de que no tuvo suerte en la vida, era un hombre muy trabajador, que luchó duro contra las adversidades, muy honesto y demasiado ingenuo, leal y fiel, en pocas palabras: era una buena persona.
+Aquello fue un shock para mí, toda mi vida había sido una discusión continua con él, pero yo le quería y le respetaba profundamente, porque a pesar de que era tozudo, algo déspota y de que no tuvo suerte en la vida, era un hombre muy trabajador, que luchó duro contra las adversidades, muy honesto, algo ingenuo, y leal, en pocas palabras: era una buena persona, un hombre bueno.
 
 Mi padre murió unos meses después, en 1989, yo tenía 21 años. Vino mucha gente al entierro.
 
@@ -48,11 +48,11 @@ Por aquel entonces ya llevaba saliendo con la chica de Almansa un par de años y
 
 Mientras estaban terminando de construir la nave de Moixent, la chica de Almansa me dijo que le habían ofrecido un empleo de guarnicionera en una fábrica de zapatos de su ciudad y que había aceptado, y que ya no podría trabajar conmigo. Al poco tiempo su hermano Reyes me dijo que le habían ofrecido un empleo como encargado en una finca agrícola de Almansa y que eso era lo que siempre había soñado, y que ya no volvería conmigo.
 
-De modo que cuando la nave industrial estuvo terminada yo no tenía a nadie que hiciera los repartos. En Moixent corrí la voz de que necesitaba un empleado y vino un buen chaval que podía realizar aquella tarea eficientemente, era risueño, buena persona, y muy trabajador. Estuvimos adaptándonos unos y todo parecía que iba bien. En aquella nave podía trabajar hasta 20 horas y no me pesaba porque era feliz, estar en mi nave preparando pedidos, ordenando las cosas, revisando papeles, limpiando, ..., me gustaba.
+De modo que cuando la nave industrial estuvo terminada yo no tenía a nadie que hiciera los repartos. En Moixent corrí la voz de que necesitaba un empleado y vino un buen chaval que podía realizar aquella tarea eficientemente, era risueño, buena persona, y muy trabajador. Estuvimos adaptándonos unos días y todo parecía que iba bien. En aquella nave podía trabajar hasta 20 horas y no me pesaba porque era feliz, estar en mi nave preparando pedidos, ordenando las cosas, revisando papeles, limpiando, ..., me gustaba.
 
-Después de unos meses, el chico risueño me dijo que le habían ofrecido un empleo y que lo iba a aceptar, pero que no me preocupara porque me iba a ayudar a encontrar un sustituto.
+Después de unos meses, el chico risueño me dijo que le habían ofrecido un empleo y que lo iba a aceptar, pero que no me preocupara porque me iba a ayudar a encontrar un sustituto. Él se fue pero no envió ningún sustituto.
 
-Otra vez estaba sin ayudante que pudiera realizar los repartos y estos empezaron a retrasarse. Un buen día apareció un chico un poco mayor que yo que me dijo que venía por el puesto de trabajo. Hablamos y empezó a trabajar al día siguiente. Un par de días después vinieron mis vecinos, dueños de una fábrica de calcetines, a avisarme de que la persona que había contratado no era de fiar y me recomendaban que buscara a otro trabajador.
+Otra vez estaba sin ayudante que pudiera realizar los repartos y estos empezaron a retrasarse. Un buen día apareció un chico un poco mayor que yo, que me dijo que venía por el puesto de trabajo. Hablamos y empezó a trabajar al día siguiente. Un par de días después vinieron mis vecinos, dueños de una fábrica de calcetines, a avisarme de que la persona que había contratado no era de fiar y me recomendaban que buscara a otro trabajador.
 
 Era verdad, un par de días después empezaron los problemas con ese chico y tuve que despedirlo.
 
@@ -76,13 +76,13 @@ La chica de Almansa, Jorge y yo, nos instalamos allí en cuanto pudimos. Joaquí
 
 Allí me hice los dos únicos esguinces que me he hecho en toda mi vida. A aquel negrero no le gustaban las bajas por accidente, así que después del segundo esguince, cuando volví para reincorporarme al trabajo me dijo que ya no iba a trabajar más. El muy cabrón, que sabía que íbamos en grupo a trabajar para ahorrar gastos, dejó que hiciera el viaje para reincorporarme al trabajo, para una vez allí decirme que ya no iba a trabajar más, por lo que tendría que esperarme 8 horas para poder volver a Almansa. Le dije que por lo menos me dejara llamar a Joaquín y después de pensárselo mucho le llamó. Joaquín vino a recogerme y acabó aquéllo.
 
-Me puse a buscar trabajo otra vez, incluso pregunté en el restaurante chino que habían inaugurado recientemente enfrente de mi casa. Trabajé algún tiempo en un bar situado en una de las esquinas del jardín Reyes Católicos que había al lado de mi casa, y también en un par más situados también en torno al jardín, pero era difícil porque yo no tenía el Graduado Escolar y era un requisito mínimo que ya se había implantado en todas las empresas. De modo que me matriculé en la Escuela de Adultos de Almansa y unos meses después obtuve el ansiado título.
+Me puse a buscar trabajo otra vez, incluso pregunté en el restaurante chino que habían inaugurado recientemente en la misma calle de mi nuevo ático. Trabajé algún tiempo en un bar situado en una de las esquinas del jardín Reyes Católicos que había al lado de mi casa, y también en un par más situados también en torno al jardín, pero era difícil porque yo no tenía el Graduado Escolar y era un requisito mínimo que ya se había implantado en todas las empresas. De modo que me matriculé en la Escuela de Adultos de Almansa y unos meses después obtuve el ansiado título.
 
 Mi matrimonio ya llevaba tiempo que "hacía aguas", y un día que volvía de jugar al ajedrez me encontré que mi esposa se había llevado los electrodomésticos, sus cosas y a Jorge, y me había abandonado sin dejar ni siquiera una nota. Era viernes.
 
-Me quedé en Almansa alguna semana más, pero cuando vi que aquéllo era definitivo, puse una denuncia por abandono de familia en el juzgado y me fui a Algemesí. Era el año 1997, yo tenía 29 años.
+Me quedé en Almansa algunos días más, pero cuando vi que aquéllo era definitivo, puse una denuncia por abandono de familia en el juzgado y me fui a Algemesí. Era el año 1997, yo tenía 29 años.
 
-Mi madre ya había terminado la construcción de los dos pisos que el abogado le había recomendado que hiciera cuando murió mi padre, y se habían instalado mi hermano Juanjo en uno, y mi madre en otro, así que yo me instalé en la vivienda vieja que hacía esquina y era calurosa en verano y fría en invierno.
+Mi madre ya había terminado la construcción de los dos pisos que el abogado le había recomendado que hiciera cuando murió mi padre, y se habían instalado mi hermano Juanjo y mi cuñada Manoli en uno, y mi madre en otro, así que yo me instalé en la vivienda vieja que hacía esquina y era calurosa en verano y fría en invierno.
 
 Mi familia pronto encontró trabajo para mi. A los pocos días de llegar empecé a trabajar en la COPAL, la cooperativa de Algemesí, llevando una carretilla elevadora. Y también me matriculé para obtener el título de FP de Fontanería, en el Instituto Blasco Ibáñez de Valencia, donde se podía obtener aquel título con un solo examen teórico y otro práctico. En la primera convocatoria aprobé el teórico pero suspendí el práctico.
 

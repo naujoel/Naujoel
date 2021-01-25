@@ -1,20 +1,14 @@
 ---
-# Course title, summary, and position.
-linktitle: Manual del desarrollador front-end (2019)
-summary:
-weight: 1
-
-# Page metadata.
 title: Manual del desarrollador front-end (2019)
+summary:
+
 date: "2020-09-03T00:00:00Z"
 lastmod: "2020-09-03T00:00:00Z"
-draft: true  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
+draft: true
+toc: true
+type: docs
 
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
+weight: 1
 menu:
   front-end-developer-handbook-2019:
     name: Manual del desarrollador front-end (2019)
