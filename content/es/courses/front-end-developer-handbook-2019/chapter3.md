@@ -4,7 +4,7 @@ linktitle: Capítulo 3. Aprendizaje del desarrollador front-end. Recursos (recom
 toc: true
 type: docs
 date: "2020-09-04T00:00:00+01:00"
-draft: false
+draft: true
 menu:
   front-end-developer-handbook-2019:
     parent: Manual del desarrollador front-end (2019)
