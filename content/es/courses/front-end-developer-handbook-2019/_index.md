@@ -8,7 +8,7 @@ weight: 1
 title: Manual del desarrollador front-end (2019)
 date: "2020-09-03T00:00:00Z"
 lastmod: "2020-09-03T00:00:00Z"
-draft: false  # Is this a draft? true/false
+draft: true  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
