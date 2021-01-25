@@ -15,9 +15,9 @@ menu:
   recuerdos-otra-vida:
     name: La Autovía de la Felicidad
     parent: Recuerdos de Otra Vida
-    weight: 50
+    weight: 60
 
-weight: 50
+weight: 60
 ---
 
 Cuando me matriculé en los estudios de ITIG, lo hice por vivir la experiencia de ir a la universidad y ser universitario, pero realmente no confiaba en acabar la carrera. Luego, al conseguir aprobar 60 créditos del primer curso, pensé que al menos debía seguir un curso más, sin embargo, la UPV tardaba en aceptar el trasladó del expediente, y yo había empezado a dejar de lado la carrera. En septiembre había empezado a trabajar en Plastic Omnium Almussafes como técnico de mantenimiento, pero en noviembre la UPV aceptó el traslado de expediente y volví a soñar con hacer un curso más de la carrera, así que me despedí de la empresa porque era incompatible con los estudios.

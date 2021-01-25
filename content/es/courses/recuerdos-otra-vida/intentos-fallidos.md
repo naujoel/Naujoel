@@ -15,9 +15,9 @@ menu:
   recuerdos-otra-vida:
     name: Intentos Fallidos
     parent: Recuerdos de Otra Vida
-    weight: 30
+    weight: 40
 
-weight: 30
+weight: 40
 ---
 
 Mi padre y yo ya no hablábamos casi nada. Yo sabía lo que había que hacer en cada momento y hacía bien mi trabajo. La rutina era la misma de siempre, así que intentaba evitar trabajar en compañía de mi padre.

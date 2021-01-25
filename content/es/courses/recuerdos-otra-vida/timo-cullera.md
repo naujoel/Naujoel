@@ -15,9 +15,9 @@ menu:
   recuerdos-otra-vida:
     name: El Timo de Cullera
     parent: Recuerdos de Otra Vida
-    weight: 40
+    weight: 50
 
-weight: 40
+weight: 50
 ---
 
 Mi hermana Virginia sufrió una adolescencia depresiva, siempre tuvo celos de su hermana Rosa porque siendo menor, ésta había encontrado un novio alegre y dicharachero, mientras que aquélla se obsesionaba en encontrar uno lo antes posible. Para colmo, cuando encontró a Vicente, éste no fue aceptado por mis padres, ya que tenía fama de porrero, lo que hundió a Virginia aún más en su depresión. Sin embargo, pese a todo, yo la quería igual y aconsejaba a mis padres que debían dar una oportunidad a la pareja.
