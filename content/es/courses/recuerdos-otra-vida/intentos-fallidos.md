@@ -78,6 +78,8 @@ Allí me hice los dos únicos esguinces que me he hecho en toda mi vida. A aquel
 
 Me puse a buscar trabajo otra vez, incluso pregunté en el restaurante chino que habían inaugurado recientemente en la misma calle de mi nuevo ático. Trabajé algún tiempo en un bar situado en una de las esquinas del jardín Reyes Católicos que había al lado de mi casa, y también en un par más situados también en torno al jardín, pero era difícil porque yo no tenía el Graduado Escolar y era un requisito mínimo que ya se había implantado en todas las empresas. De modo que me matriculé en la Escuela de Adultos de Almansa y unos meses después obtuve el ansiado título.
 
+En el Club de Ajedrez de Almansa conocí a un chico que me introdujo en la bolsa de trabajo de Correos, incluso preparé las oposiciones y me presenté al examen, pero no aprobé y tampoco me llamaban de la bolsa para trabajar.
+
 Mi matrimonio ya llevaba tiempo que "hacía aguas", y un día que volvía de jugar al ajedrez me encontré que mi esposa se había llevado los electrodomésticos, sus cosas y a Jorge, y me había abandonado sin dejar ni siquiera una nota. Era viernes.
 
 Me quedé en Almansa algunos días más, pero cuando vi que aquéllo era definitivo, puse una denuncia por abandono de familia en el juzgado y me fui a Algemesí. Era el año 1997, yo tenía 29 años.
@@ -88,7 +90,9 @@ Mi familia pronto encontró trabajo para mi. A los pocos días de llegar empecé
 
 Al acabar la campaña de las naranjas entré a trabajar en Avidesa en el turno de noche, conduciendo también una carretilla elevadora y ayudando a preparar pedidos. La segunda vez que me presenté al examen de FP de Fontanería aprobé el teórico y el práctico, y obtuve el título. Yo iba cada 15 días a ver a mi hijo Jorge y en aquéllos días pensé que aquel título me permitiría arreglar mi matrimonio, y vivir en mi ático. Pero poco a poco, aquel sueño se fue desvaneciendo.
 
-Cuando acabó la campaña de los helados empezó la campaña de las naranjas y trabajé otra vez en la COPAL. Cuando acabó la campaña de las naranjas, empecé otra vez la campaña de helados en Avidesa, donde dije que había obtenido el título de FP de Fontanería por si servía de algo. Aquélla campaña la empecé como carretillero pero luego me ascendieron y la acabé siendo maquinista.
+Cuando acabó la campaña de los helados empezó la campaña de las naranjas y trabajé otra vez en la COPAL. Cuando acabó la campaña de las naranjas, empecé otra vez la campaña de helados en Avidesa, donde dije que había obtenido el título de FP de Fontanería por si servía de algo.
+
+Habían empezado a llamarme de la bolsa para trabajar en Correos haciendo sustituciones, y aquel verano llegué a trabajar en Avidesa por la noche, y en las oficinas de Correos de Picassent (un mes) y Moixent (otro mes), por el día. Cuando acabé aquel verano había cogido una neumonía que me tuvo un par de meses de baja.
 
 En 1999 me enteré que en Sueca hacían un examen para acceder al Ciclo Formativo Superior de la FP, pero pensaba que aquéllo era demasiado para mi. Yo había empezado a salir con una compañera del trabajo, María Jesús, y a los pocos días ya vivíamos juntos en el chalet de sus padres de La Barraca de Aguas Vivas, donde eramos muy felices. Ella opinaba que debía presentarme a aquel examen porque no tenía nada que perder. Me presenté al examen y lo aprobé, y en septiembre de 1999 me matriculé en el Instituto La Valldigna de Tabernes de la Valldigna, para cursar el Ciclo Formativo Superior para la obtención del Título de Técnico Superior en Mantenimiento de Equipo Industrial.
 

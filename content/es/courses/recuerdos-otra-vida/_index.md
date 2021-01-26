@@ -23,7 +23,7 @@ De vez en cuando recuerdo mi pasado y entonces siento que me apetece escribirlo.
 
 No tengo muy clara la finalidad, a veces pienso que me gustaría que la leyesen mis nietos, pero creo que la realidad es que mi padre murió de trombosis cerebral y el último año de vida había perdido la consciencia. Aquéllo me impresionó mucho, prácticamente pasaba las horas con la cabeza sobre sus brazos encima de la mesa, sin hablar, creo que dormía pero no lo se. Creo que quiero tener mis memorias escritas por si a mi me pasara lo mismo.
 
-Intentaré que este libro no sea aburrido pero la prioridad principal es que sea verídico, fiel a la verdad, por lo que no puedo garantizarte que no te aburrirás. Se comprensivo y no me juzgues duramente.
+Intentaré que este libro no sea aburrido pero la prioridad principal es que sea verídico, fiel a la verdad, por lo que no puedo garantizarlo. Se comprensivo y no me juzgues duramente.
 
 Hay una pauta que se ha cumplido a lo largo de mi vida: no se me dan bien las relaciones sociales, creo que soy demasiado honesto, y demasiado ingenuo, quizás me hubiera ido mejor si me tomara las amistades más a la ligera. Añadiría que tampoco se me dan bien las relaciones comerciales, soy un pésimo vendedor.
 
