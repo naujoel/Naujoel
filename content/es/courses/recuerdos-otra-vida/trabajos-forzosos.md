@@ -68,7 +68,7 @@ A esta penosa vida hay que añadir que una de las veces que me dirigía a trabaj
 
 Si he de ser sincero, no todo fue malo, recuerdo que me gustaba el olor que desprendían las aceitunas crudas recién machacadas... pero poco más.
 
-Con todo, era un adolescente con las inquietudes de la edad, tuve mi primera relación sexual completa a los 15 años, con mi primera novia Salud Botella que por entonces tenía 12 años aunque aparentaba 20, en una cama que había en la planta baja de mi casa.
+Con todo, era un adolescente con las inquietudes de la edad, tuve mi primera relación sexual completa a los 15 años, con mi primera novia Salud B. que por entonces tenía 12 años aunque aparentaba 20, en una cama que había en la planta baja de mi casa.
 
 Los fines de semana solía frecuentar los recreativos La Parra, de la calle La Parra, donde años después la misma dueña montó el restaurante La Parra que hoy está cerrado, espero que no le fuera bien porque era bastante estúpida.
 
