@@ -28,3 +28,9 @@ Escribiendo estas memorias he confirmado algo que ya sabía, hay una pauta que s
 Intentaré que este libro sea entretenido pero no puedo garantizarlo, ya que la prioridad principal es que sea verídico, fiel a la verdad. Se comprensivo y no me juzgues duramente.
 
 Muchas gracias por tu atención.
+
+{{% alert note %}}
+Haz clic en el siguiente botón para empezar a leer el libro. Al final de cada capítulo hay un enlace para ir al siguiente capítulo.
+{{% /alert %}}
+
+<a href="edad-escolar" class="btn btn-primary btn-lg" role="button">Comenzar</a>
