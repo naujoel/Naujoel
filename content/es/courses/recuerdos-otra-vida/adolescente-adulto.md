@@ -1,5 +1,5 @@
 ---
-title: "Tormentas del Edén"
+title: "De Adolescente a Adulto"
 summary:
 
 date: 2021-01-22T13:51:30+01:00
@@ -13,7 +13,6 @@ categories: []
 
 menu:
   recuerdos-otra-vida:
-    name: Tormentas del Edén
     parent: Recuerdos de Otra Vida
     weight: 30
 
@@ -34,19 +33,15 @@ Yo me había ido sin dinero y por aquel entonces en España aún no se había ex
 
 Si quería llegar a mi casa con las 5.000 pesetas en marcos alemanes que me había prestado Babette, aquel dinero solo lo podía destinar para gasolina, no podía utilizar autovías de peaje, ni podía parar a comer. Al sur de Francia el dinero y la gasolina se estaban acabando, huyendo de las autovías de peaje acabé de noche en Portbou, un pueblo en la frontera franco-española. Aunque ya no me quedaba dinero ni gasolina, sentí que lo había conseguido, había llegado a España y sabía que podría resolver mis problemas.
 
-Entré en el único bar que estaba abierto y me dirigí al camarero de la barra, un chico gay que aumentó su amaneramiento al ver una cara nueva por allí. Le conté lo que me pasaba y me dijo que no me preocupara, me dio algo de cenar y me dijo que me podía quedar gratis a dormir en la pensión de arriba del bar.
+Entré en el único bar que estaba abierto y me dirigí al camarero de la barra, un chico gay que aumentó su amaneramiento al ver una cara nueva por allí. Le conté lo que me pasaba, me dijo que no me preocupara, y me dio algo de cenar.
 
-Cuando cerró el bar, salimos a dar una vuelta por el pueblo y le conté toda la historia sobre mis problemas con mi padre y mi viaje a Alemania. Él me dijo que en verano había mucho trabajo de camarero en Roses, una ciudad costera situada cerca de allí, y que si volvía el próximo verano, él me ayudaría a encontrar algún trabajo y algún sitio donde alojarme.
-
-Aquel chico, que creo que se llamaba Tony, me prestó algo de dinero y al día siguiente volví a Algemesí, tras 21 días de ausencia.
+Cuando cerró el bar, salimos a dar una vuelta por el pueblo y le conté toda la historia sobre mis problemas con mi padre y mi viaje a Alemania. Él me dijo que en verano había mucho trabajo de camarero en Roses, una ciudad costera situada cerca de allí, y que si volvía el próximo verano, él me ayudaría a encontrar algún trabajo y algún sitio donde alojarme. Aquel chico, que creo que se llamaba Tony, me prestó algo de dinero y pude volver a Algemesí, tras 21 días de ausencia.
 
 Al llegar me incorporé enseguida a la rutina, es decir, al trabajo y a las discusiones diarias.
 
 Al verano siguiente, como las cosas en mi casa seguían igual, decidí pasarlo en Roses trabajando de camarero. Las cosas eran tal y como Tony me había contado, miles de jóvenes de toda España pasaban el verano allí trabajando en algo relacionado con el turismo. Estuve un par de semanas buscando trabajo hasta que lo encontré en la discoteca Chic de Roses. Fue mi primer contrato, por lo que, dado que una vez asignado el número de la Seguridad Social es para siempre, mi número de la Seguridad Social corresponde a la numeración de la provincia de Girona.
 
-Aquel fue un verano increiblemente fantástico, espectacular. Chic era la disco de moda aquel verano, abría todos los días excepto los domingos y los lunes, y todos los días se llenaba de turistas alemanas, inglesas, francesas, holandesas e incluso austriacas. Yo era un chico joven, guapete, con coche, y aquello era el paraíso. Además, a los pocos días de empezar a trabajar quería cambiar de alojamiento y un señor gay de unos 40 años me dijo que me podía quedar en su apartamento de Ampuries, así que al día siguiente me alojé allí. Vivía sólo en un apartamento junto a los canales del puerto, eran unos apartamentos cuyos propietarios tenían aparcado el coche en el lado de la calle y el barco en el lado del canal. Una maravilla.
-
-Ese señor gay vivía en Figueres con su madre, a los pocos días tuvo un accidente con el coche o con la moto, no recuerdo, fui al hospital educadamente a saludarle e interesarme por su salud, y le ingresaba el alquiler puntualmente todos los meses.
+Aquel fue un verano increiblemente fantástico, espectacular. Chic era la disco de moda aquel verano, abría todos los días excepto los domingos y los lunes, y todos los días se llenaba de turistas alemanas, inglesas, francesas, holandesas e incluso austriacas. Yo era un chico joven, guapete, con coche, y aquello era el paraíso. Además, a los pocos días de empezar a trabajar quería cambiar de alojamiento y un señor de unos 40 años que creo que era gay, me dijo que tenía un apartamento en Ampuries, y fui a verlo. Era un apartamento junto a los canales del puerto, dentro de una urbanización semiprivada con calles peatonales, cuyos propietarios tenían aparcado el coche en el lado de la calle y el barco en el lado del canal. Una maravilla, así que al día siguiente me alojé allí. Ese señor vivía en Figueres con su madre, a los pocos días tuvo un accidente con el coche o con la moto, no recuerdo, fui al hospital educadamente a saludarle e interesarme por su salud, y le ingresaba el alquiler puntualmente todos los meses.
 
 Cada día llevaba al apartamento a una chica distinta, todas querían lo mismo, habían ido para unos pocos días a la costa brava y querían diversión y sexo. De todas ellas, hubo un par que me gustaron mucho, Angeline y Monique. A Angeline la conocí cuando me dirigía al trabajo, yo había aparcado el coche y ella y una mujer de color que la acompañaba se encontraban en una parada de autobús a las 7 de la tarde más o menos. Yo les dije que a esa hora no iba a pasar ningún autobús, y empezamos a hablar, las acerqué hasta Roses con mi coche, la invité a que viniera a verme a la discoteca esa noche, y ella vino. Se esperó hasta que acabé de trabajar, luego fuimos a desayunar a algún bar y luego fuimos a dormir a mi aparatamento. Hicimos el amor y a la mañana siguiente le hice fotos junto a la ventana que daba al canal, unas fotos que guardé mucho tiempo. Era una chica casi tan alta como yo, de tez clara, pelo ondulado largo castaño oscuro, ojos azules y una complexión normal que dibujaba curvas femeninas por todo su cuerpo, era bellísima. Tenía una carácter sereno, hablaba en un tono y velocidad suaves, y su sonrisa iluminaba la habitación. Recuerdo que llevaba unos pendientes largos que asomaban cuando se recogía el pelo, que competían con la belleza de su precioso cuello. No debí dejar escapar esta chica, tenía que haberle expresado mis sentimientos, pero no lo hice, y desapareció sin dejar rastro.
 
