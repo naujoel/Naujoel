@@ -1,10 +1,11 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "{{ replace .Name "-" " " | title }}"
 authors: []
 date: {{ .Date }}
 doi: ""
+
+abstract: ""
+summary: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: {{ .Date }}
@@ -19,10 +20,6 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: ""
-
-# Summary. An optional shortened abstract.
-summary: ""
 
 tags: []
 categories: []
@@ -37,13 +34,13 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+# url_code:
+# url_dataset:
+# url_poster:
+# url_project:
+# url_slides:
+# url_source:
+# url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -67,3 +64,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+
+{{% alert note %}}
+Haga clic en el botón *PDF* de arriba para descargar el documento.
+{{% /alert %}}

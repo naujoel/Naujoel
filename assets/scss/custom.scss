@@ -1,5 +1,279 @@
-.source {
-  font-size: 12px;
-  text-align: right;
-  font-style: italic;
-}
+// Override this file to add your own SCSS styling.
+
+/*************************************************
+ *  Variables
+ **************************************************/
+
+ $h2-font-size: $sta-font-size * 1.25;
+ $h3-font-size: $sta-font-size * 1.15;
+ $h4-font-size: $sta-font-size * 1.05;
+ $h5-font-size: $sta-font-size * 1;
+ $h6-font-size: $sta-font-size * 0.9;
+ 
+ 
+ 
+ 
+ 
+ /*************************************************
+  *  Documentation layout
+  **************************************************/
+ 
+ .docs-article-container {
+   max-width: 1100px;
+   margin-left: 10px;
+   margin-top: 15px;
+   margin-right: 20px;
+   padding-left: 10px;
+   padding-top: 15px;
+   padding-right: 20px;
+ }
+ 
+ /* Documentation: article footer. */
+ 
+ .docs .body-footer {
+   border-top: 1px solid #e8e8e8;
+   margin-top: 20px;
+   padding-top: 10px;
+   font-size: 14px;
+   color: #707070;
+ }
+ 
+ /* Docs content. */
+ 
+ .docs-content {
+   order: 1;
+   position: relative;
+   flex-basis: 100%;
+ }
+ 
+ .docs {
+   h1 {
+     text-align: center;
+   }
+ }
+ 
+ /* Docs sidebar. */
+ 
+ .docs-sidebar {
+   order: 0;
+   border-bottom: 1px solid rgba(0, 0, 0, .1);
+   color: #3c4b64;
+ }
+ 
+ 
+ /* Docs sidebar li>a. */
+ 
+ .docs-sidebar .nav>li>a:hover {
+   text-decoration: none;
+   background-color: #f1f4f7;
+ }
+ 
+ /* Docs TOC nav. */
+ 
+ .docs-toc-title {
+   color: #3c4b64;
+   font-size: .875rem;
+   font-weight: 600;
+   padding-left: calc(1.5rem + 1px);
+ }
+ 
+ #TableOfContents li a:hover,
+ .toc-top li a:hover {
+   color: $sta-primary;
+   text-decoration: none;
+   background-color: #f1f4f7;
+ }
+ 
+ .source {
+   font-size: 12px;
+   text-align: right;
+   font-style: italic;
+ }
+ 
+ .apuntes {
+   p {
+     text-align: justify;
+     text-justify: inter-word;
+   }
+   @media (max-width: 800px) {
+     p {
+       text-align: left;
+       text-justify: none;
+     }
+   }
+   h2 {
+     font-size: 1.75rem;
+     text-align: center;
+     color: #0123AC;
+   }
+   h3 {
+     font-size: 1.4rem;
+     text-indent: 20px;
+     color: #1B3CC2;
+   }
+   h4 {
+     font-size: 1.25rem;
+     text-indent: 20px;
+     color: #11998c;
+   }
+   h5 {
+     font-size: 1.15rem;
+     text-indent: 20px;
+     color: #b2af48;
+   }
+   h6 {
+     font-size: 1.05rem;
+     text-indent: 20px;
+     color: #900C3F;
+   }
+   /* Table Hover */
+   table {
+     display: table;
+   }
+   table > tbody > tr:hover > td,
+   table > tbody > tr:hover > th {
+     background-color: initial;
+   }
+ }
+ 
+ #glosario {
+   h2 {
+     font-size: 1.6rem;
+     font-weight: bold;
+     text-align: center;
+     color: #0123AC;
+   }
+   h3 {
+     font-size: 1.15rem;
+     font-weight: bold;
+     text-align: left;
+     color: #11998c;
+   }
+ }
+ 
+ #letras {
+   font-size: 1.5rem;
+   font-weight: bold;
+   color: $sta-primary;
+   p {
+     text-align: center;
+   }
+ }
+ 
+ .search-header {
+   position: -webkit-static;
+   position: static;
+   top: 0;
+   background-color: $sta-background;
+   padding-top: 2rem;
+   padding-bottom: 1rem;
+ }
+ 
+ #search-box::before {
+   font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
+   content: "\f002";
+   font-size: 1rem;
+   opacity: 0;
+   line-height: 1rem;
+   position: absolute;
+   left: 0.7rem;
+   top: 0.6rem;
+   overflow-x: hidden;
+ }
+ 
+ .gsc-search-box {
+   background-color: #ffffff;
+   table > tbody > tr:nth-child(odd) > td {
+     background-color: #ffffff;
+     border: 0;
+   }
+ }
+ 
+ .gsc-search-box:hover {
+   background-color: #ffffff;
+   table > tbody > tr:nth-child(odd) > td:hover {
+     background-color: #ffffff;
+     border: 0;
+   }
+ }
+ 
+ .gsc-above-wrapper-area-container {
+     height: 74px;
+     background-color: #ffffff;
+     table > tbody > tr > td {
+       background-color: #ffffff;
+       border: 0;
+     }
+ }
+ 
+ .gsc-above-wrapper-area {
+     padding: 50px;
+     background-color: #ffffff;
+     table > tbody > tr > td {
+       background-color: #ffffff;
+       border: 0;
+     }
+ }
+ 
+ .gsc-above-wrapper-area:hover {
+     background-color: #ffffff;
+     table > tbody > tr > td {
+       background-color: #ffffff;
+       border: 0;
+     }
+ }
+ 
+ /*************************************************
+  *  Pager.
+  **************************************************/
+ 
+ .post-nav {
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 1rem;
+   font-size: 1rem;
+   text-align: center;
+ }
+ 
+ .post-nav-item {
+   flex: 50%;
+   hyphens: auto;
+   word-wrap: break-word;
+   padding: 11px 0 12px;
+ }
+ 
+ .post-nav-item[data-next] {
+   text-align: right;
+ }
+ 
+ .post-nav-item[data-previous] {
+   text-align: left;
+ }
+ 
+ @media (max-width: 800px) {
+   .post-nav-item {
+     flex: 100%;
+   }
+ }
+ 
+ .post-nav-item a {
+   color: $sta-primary;
+   line-height: 1.7;
+   text-transform: none;
+   font-weight: bold;
+ }
+ 
+ .post-nav-item .meta-nav {
+   color: #767676;
+   font-weight: bold;
+   line-height: 2;
+   text-transform: uppercase;
+ }
+ 
+ .dark .post-nav-item a {
+   color: #ddd;
+ }
+ 
+ // Override this file to add your own SCSS styling.
+ 
